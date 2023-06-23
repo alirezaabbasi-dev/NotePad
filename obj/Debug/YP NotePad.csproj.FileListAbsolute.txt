@@ -1,0 +1,477 @@
+C:\Users\Alireza\Desktop\YP\YP-buid 219.3\Yp-Projects\Yp NotePad-latest version-metro\note pad yp\bin\Debug\note pad yp.exe.config
+C:\Users\Alireza\Desktop\YP\YP-buid 219.3\Yp-Projects\Yp NotePad-latest version-metro\note pad yp\bin\Debug\note pad yp.exe
+C:\Users\Alireza\Desktop\YP\YP-buid 219.3\Yp-Projects\Yp NotePad-latest version-metro\note pad yp\bin\Debug\note pad yp.pdb
+C:\Users\Alireza\Desktop\YP\YP-buid 219.3\Yp-Projects\Yp NotePad-latest version-metro\note pad yp\bin\Debug\MetroFramework.Design.dll
+C:\Users\Alireza\Desktop\YP\YP-buid 219.3\Yp-Projects\Yp NotePad-latest version-metro\note pad yp\bin\Debug\MetroFramework.dll
+C:\Users\Alireza\Desktop\YP\YP-buid 219.3\Yp-Projects\Yp NotePad-latest version-metro\note pad yp\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Alireza\Desktop\YP\YP-buid 219.3\Yp-Projects\Yp NotePad-latest version-metro\note pad yp\obj\Debug\YP NotePad.csprojResolveAssemblyReference.cache
+C:\Users\Alireza\Desktop\YP\YP-buid 219.3\Yp-Projects\Yp NotePad-latest version-metro\note pad yp\obj\Debug\notepadyp.about.resources
+C:\Users\Alireza\Desktop\YP\YP-buid 219.3\Yp-Projects\Yp NotePad-latest version-metro\note pad yp\obj\Debug\note_pad_yp.Form1.resources
+C:\Users\Alireza\Desktop\YP\YP-buid 219.3\Yp-Projects\Yp NotePad-latest version-metro\note pad yp\obj\Debug\YP_NotePad.YPNotePad001.resources
+C:\Users\Alireza\Desktop\YP\YP-buid 219.3\Yp-Projects\Yp NotePad-latest version-metro\note pad yp\obj\Debug\note_pad_yp.Properties.Resources.resources
+C:\Users\Alireza\Desktop\YP\YP-buid 219.3\Yp-Projects\Yp NotePad-latest version-metro\note pad yp\obj\Debug\YP NotePad.csproj.GenerateResource.Cache
+C:\Users\Alireza\Desktop\YP\YP-buid 219.3\Yp-Projects\Yp NotePad-latest version-metro\note pad yp\obj\Debug\note pad yp.exe
+C:\Users\Alireza\Desktop\YP\YP-buid 219.3\Yp-Projects\Yp NotePad-latest version-metro\note pad yp\obj\Debug\note pad yp.pdb
+C:\Users\Alireza\Desktop\YP\YP-buid 219.3\Yp-Projects\Yp NotePad-latest version-metro\YP NotePad\obj\Debug\YP NotePad.csprojResolveAssemblyReference.cache
+C:\Users\Alireza\Desktop\YP\YP-buid 219.3\Yp-Projects\Yp NotePad-latest version-metro\YP NotePad\obj\Debug\notepadyp.about.resources
+C:\Users\Alireza\Desktop\YP\YP-buid 219.3\Yp-Projects\Yp NotePad-latest version-metro\YP NotePad\obj\Debug\note_pad_yp.Form1.resources
+C:\Users\Alireza\Desktop\YP\YP-buid 219.3\Yp-Projects\Yp NotePad-latest version-metro\YP NotePad\obj\Debug\YP_NotePad.YPNotePad001.resources
+C:\Users\Alireza\Desktop\YP\YP-buid 219.3\Yp-Projects\Yp NotePad-latest version-metro\YP NotePad\obj\Debug\YP NotePad.csproj.GenerateResource.Cache
+C:\Users\Alireza\Desktop\YP\YP-buid 219.3\Yp-Projects\Yp NotePad-latest version-metro\YP NotePad\bin\Debug\MetroFramework.Design.dll
+C:\Users\Alireza\Desktop\YP\YP-buid 219.3\Yp-Projects\Yp NotePad-latest version-metro\YP NotePad\bin\Debug\MetroFramework.dll
+C:\Users\Alireza\Desktop\YP\YP-buid 219.3\Yp-Projects\Yp NotePad-latest version-metro\YP NotePad\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Alireza\Desktop\YP\YP-buid 219.3\Yp-Projects\Yp NotePad-latest version-metro\YP NotePad\bin\Debug\YP NotePad.exe.config
+C:\Users\Alireza\Desktop\YP\YP-buid 219.3\Yp-Projects\Yp NotePad-latest version-metro\YP NotePad\bin\Debug\YP NotePad.exe
+C:\Users\Alireza\Desktop\YP\YP-buid 219.3\Yp-Projects\Yp NotePad-latest version-metro\YP NotePad\bin\Debug\YP NotePad.pdb
+C:\Users\Alireza\Desktop\YP\YP-buid 219.3\Yp-Projects\Yp NotePad-latest version-metro\YP NotePad\obj\Debug\YP_NotePad.Properties.Resources.resources
+C:\Users\Alireza\Desktop\YP\YP-buid 219.3\Yp-Projects\Yp NotePad-latest version-metro\YP NotePad\obj\Debug\YP NotePad.exe
+C:\Users\Alireza\Desktop\YP\YP-buid 219.3\Yp-Projects\Yp NotePad-latest version-metro\YP NotePad\obj\Debug\YP NotePad.pdb
+C:\Users\Alireza\Desktop\YP\YP-buid 219.3\Yp-Projects\Yp NotePad-latest version-metro\YP NotePad\obj\Debug\YP NotePad.TrustInfo.xml
+C:\Users\Alireza\Desktop\YP\YP-buid 219.3\Yp-Projects\Yp NotePad-latest version-metro\YP NotePad\bin\Debug\YP NotePad.exe.manifest
+C:\Users\Alireza\Desktop\YP\YP-buid 219.3\Yp-Projects\Yp NotePad-latest version-metro\YP NotePad\bin\Debug\YP NotePad.application
+C:\Users\Alireza\Desktop\YP\YP-buid 219.3\Yp-Projects\Yp NotePad-latest version-metro\YP NotePad\obj\Debug\YP NotePad.exe.manifest
+C:\Users\Alireza\Desktop\YP\YP-buid 219.3\Yp-Projects\Yp NotePad-latest version-metro\YP NotePad\obj\Debug\YP NotePad.application
+D:\YP\YP-buid 219.3\Yp-Projects\Yp NotePad-latest version-metro\YP NotePad\bin\Debug\YP NotePad.exe.config
+D:\YP\YP-buid 219.3\Yp-Projects\Yp NotePad-latest version-metro\YP NotePad\obj\Debug\YP NotePad.exe
+D:\YP\YP-buid 219.3\Yp-Projects\Yp NotePad-latest version-metro\YP NotePad\obj\Debug\YP NotePad.pdb
+D:\YP\YP-buid 219.3\Yp-Projects\Yp NotePad-latest version-metro\YP NotePad\bin\Debug\YP NotePad.exe.manifest
+D:\YP\YP-buid 219.3\Yp-Projects\Yp NotePad-latest version-metro\YP NotePad\bin\Debug\YP NotePad.application
+D:\YP\YP-buid 219.3\Yp-Projects\Yp NotePad-latest version-metro\YP NotePad\bin\Debug\YP NotePad.exe
+D:\YP\YP-buid 219.3\Yp-Projects\Yp NotePad-latest version-metro\YP NotePad\bin\Debug\YP NotePad.pdb
+D:\YP\YP-buid 219.3\Yp-Projects\Yp NotePad-latest version-metro\YP NotePad\bin\Debug\MetroFramework.Design.dll
+D:\YP\YP-buid 219.3\Yp-Projects\Yp NotePad-latest version-metro\YP NotePad\bin\Debug\MetroFramework.dll
+D:\YP\YP-buid 219.3\Yp-Projects\Yp NotePad-latest version-metro\YP NotePad\bin\Debug\MetroFramework.Fonts.dll
+D:\YP\YP-buid 219.3\Yp-Projects\Yp NotePad-latest version-metro\YP NotePad\obj\Debug\YP NotePad.csprojResolveAssemblyReference.cache
+D:\YP\YP-buid 219.3\Yp-Projects\Yp NotePad-latest version-metro\YP NotePad\obj\Debug\notepadyp.about.resources
+D:\YP\YP-buid 219.3\Yp-Projects\Yp NotePad-latest version-metro\YP NotePad\obj\Debug\note_pad_yp.Form1.resources
+D:\YP\YP-buid 219.3\Yp-Projects\Yp NotePad-latest version-metro\YP NotePad\obj\Debug\YP_NotePad.YPNotePad001.resources
+D:\YP\YP-buid 219.3\Yp-Projects\Yp NotePad-latest version-metro\YP NotePad\obj\Debug\YP_NotePad.Properties.Resources.resources
+D:\YP\YP-buid 219.3\Yp-Projects\Yp NotePad-latest version-metro\YP NotePad\obj\Debug\YP NotePad.csproj.GenerateResource.Cache
+D:\YP\YP-buid 219.3\Yp-Projects\Yp NotePad-latest version-metro\YP NotePad\obj\Debug\YP NotePad.TrustInfo.xml
+D:\YP\YP-buid 219.3\Yp-Projects\Yp NotePad-latest version-metro\YP NotePad\obj\Debug\YP NotePad.exe.manifest
+D:\YP\YP-buid 219.3\Yp-Projects\Yp NotePad-latest version-metro\YP NotePad\obj\Debug\YP NotePad.application
+F:\YP\YP-buid 219.3\Yp-Projects\Yp NotePad-latest version-metro\YP NotePad\bin\Debug\YP NotePad.exe.config
+F:\YP\YP-buid 219.3\Yp-Projects\Yp NotePad-latest version-metro\YP NotePad\bin\Debug\YP NotePad.exe.manifest
+F:\YP\YP-buid 219.3\Yp-Projects\Yp NotePad-latest version-metro\YP NotePad\bin\Debug\YP NotePad.application
+F:\YP\YP-buid 219.3\Yp-Projects\Yp NotePad-latest version-metro\YP NotePad\bin\Debug\YP NotePad.exe
+F:\YP\YP-buid 219.3\Yp-Projects\Yp NotePad-latest version-metro\YP NotePad\bin\Debug\YP NotePad.pdb
+F:\YP\YP-buid 219.3\Yp-Projects\Yp NotePad-latest version-metro\YP NotePad\bin\Debug\MetroFramework.Design.dll
+F:\YP\YP-buid 219.3\Yp-Projects\Yp NotePad-latest version-metro\YP NotePad\bin\Debug\MetroFramework.dll
+F:\YP\YP-buid 219.3\Yp-Projects\Yp NotePad-latest version-metro\YP NotePad\bin\Debug\MetroFramework.Fonts.dll
+F:\YP\YP-buid 219.3\Yp-Projects\Yp NotePad-latest version-metro\YP NotePad\obj\Debug\YP NotePad.csprojResolveAssemblyReference.cache
+F:\YP\YP-buid 219.3\Yp-Projects\Yp NotePad-latest version-metro\YP NotePad\obj\Debug\notepadyp.about.resources
+F:\YP\YP-buid 219.3\Yp-Projects\Yp NotePad-latest version-metro\YP NotePad\obj\Debug\note_pad_yp.Form1.resources
+F:\YP\YP-buid 219.3\Yp-Projects\Yp NotePad-latest version-metro\YP NotePad\obj\Debug\YP_NotePad.YPNotePad001.resources
+F:\YP\YP-buid 219.3\Yp-Projects\Yp NotePad-latest version-metro\YP NotePad\obj\Debug\YP_NotePad.Properties.Resources.resources
+F:\YP\YP-buid 219.3\Yp-Projects\Yp NotePad-latest version-metro\YP NotePad\obj\Debug\YP NotePad.csproj.GenerateResource.Cache
+F:\YP\YP-buid 219.3\Yp-Projects\Yp NotePad-latest version-metro\YP NotePad\obj\Debug\YP NotePad.TrustInfo.xml
+F:\YP\YP-buid 219.3\Yp-Projects\Yp NotePad-latest version-metro\YP NotePad\obj\Debug\YP NotePad.exe.manifest
+F:\YP\YP-buid 219.3\Yp-Projects\Yp NotePad-latest version-metro\YP NotePad\obj\Debug\YP NotePad.application
+F:\YP\YP-buid 219.3\Yp-Projects\Yp NotePad-latest version-metro\YP NotePad\obj\Debug\YP NotePad.exe
+F:\YP\YP-buid 219.3\Yp-Projects\Yp NotePad-latest version-metro\YP NotePad\obj\Debug\YP NotePad.pdb
+F:\YP\YP-buid 219.3\Yp-Projects\Yp NotePad-latest version-metro\YP NotePad\bin\Debug\Telerik.WinControls.Themes.CrystalDark.dll
+F:\YP\YP-buid 219.3\Yp-Projects\Yp NotePad-latest version-metro\YP NotePad\bin\Debug\TelerikCommon.dll
+F:\YP\YP-buid 219.3\Yp-Projects\Yp NotePad-latest version-metro\YP NotePad\bin\Debug\Telerik.WinControls.dll
+F:\YP\YP-buid 219.3\Yp-Projects\Yp NotePad-latest version-metro\YP NotePad\bin\Debug\Telerik.WinControls.xml
+F:\YP\YP-buid 219.4\Yp-Projects\1-YP-Stoped Projects\Yp NotePad-latest version-metro-stoped\YP NotePad\bin\Debug\YP NotePad.exe.config
+F:\YP\YP-buid 219.4\Yp-Projects\1-YP-Stoped Projects\Yp NotePad-latest version-metro-stoped\YP NotePad\bin\Debug\YP NotePad.exe.manifest
+F:\YP\YP-buid 219.4\Yp-Projects\1-YP-Stoped Projects\Yp NotePad-latest version-metro-stoped\YP NotePad\bin\Debug\YP NotePad.application
+F:\YP\YP-buid 219.4\Yp-Projects\1-YP-Stoped Projects\Yp NotePad-latest version-metro-stoped\YP NotePad\bin\Debug\YP NotePad.exe
+F:\YP\YP-buid 219.4\Yp-Projects\1-YP-Stoped Projects\Yp NotePad-latest version-metro-stoped\YP NotePad\bin\Debug\YP NotePad.pdb
+F:\YP\YP-buid 219.4\Yp-Projects\1-YP-Stoped Projects\Yp NotePad-latest version-metro-stoped\YP NotePad\bin\Debug\MetroFramework.Design.dll
+F:\YP\YP-buid 219.4\Yp-Projects\1-YP-Stoped Projects\Yp NotePad-latest version-metro-stoped\YP NotePad\bin\Debug\MetroFramework.dll
+F:\YP\YP-buid 219.4\Yp-Projects\1-YP-Stoped Projects\Yp NotePad-latest version-metro-stoped\YP NotePad\bin\Debug\MetroFramework.Fonts.dll
+F:\YP\YP-buid 219.4\Yp-Projects\1-YP-Stoped Projects\Yp NotePad-latest version-metro-stoped\YP NotePad\bin\Debug\Telerik.WinControls.dll
+F:\YP\YP-buid 219.4\Yp-Projects\1-YP-Stoped Projects\Yp NotePad-latest version-metro-stoped\YP NotePad\bin\Debug\Telerik.WinControls.Themes.Crystal.dll
+F:\YP\YP-buid 219.4\Yp-Projects\1-YP-Stoped Projects\Yp NotePad-latest version-metro-stoped\YP NotePad\bin\Debug\Telerik.WinControls.Themes.CrystalDark.dll
+F:\YP\YP-buid 219.4\Yp-Projects\1-YP-Stoped Projects\Yp NotePad-latest version-metro-stoped\YP NotePad\bin\Debug\Telerik.WinControls.Themes.Fluent.dll
+F:\YP\YP-buid 219.4\Yp-Projects\1-YP-Stoped Projects\Yp NotePad-latest version-metro-stoped\YP NotePad\bin\Debug\Telerik.WinControls.UI.dll
+F:\YP\YP-buid 219.4\Yp-Projects\1-YP-Stoped Projects\Yp NotePad-latest version-metro-stoped\YP NotePad\bin\Debug\TelerikCommon.dll
+F:\YP\YP-buid 219.4\Yp-Projects\1-YP-Stoped Projects\Yp NotePad-latest version-metro-stoped\YP NotePad\bin\Debug\Telerik.WinControls.xml
+F:\YP\YP-buid 219.4\Yp-Projects\1-YP-Stoped Projects\Yp NotePad-latest version-metro-stoped\YP NotePad\bin\Debug\Telerik.WinControls.UI.xml
+F:\YP\YP-buid 219.4\Yp-Projects\1-YP-Stoped Projects\Yp NotePad-latest version-metro-stoped\YP NotePad\obj\Debug\YP NotePad.csprojResolveAssemblyReference.cache
+F:\YP\YP-buid 219.4\Yp-Projects\1-YP-Stoped Projects\Yp NotePad-latest version-metro-stoped\YP NotePad\obj\Debug\notepadyp.about.resources
+F:\YP\YP-buid 219.4\Yp-Projects\1-YP-Stoped Projects\Yp NotePad-latest version-metro-stoped\YP NotePad\obj\Debug\note_pad_yp.Form1.resources
+F:\YP\YP-buid 219.4\Yp-Projects\1-YP-Stoped Projects\Yp NotePad-latest version-metro-stoped\YP NotePad\obj\Debug\YP_NotePad.YPNotePad001.resources
+F:\YP\YP-buid 219.4\Yp-Projects\1-YP-Stoped Projects\Yp NotePad-latest version-metro-stoped\YP NotePad\obj\Debug\YP_NotePad.Properties.Resources.resources
+F:\YP\YP-buid 219.4\Yp-Projects\1-YP-Stoped Projects\Yp NotePad-latest version-metro-stoped\YP NotePad\obj\Debug\YP NotePad.csproj.GenerateResource.Cache
+F:\YP\YP-buid 219.4\Yp-Projects\1-YP-Stoped Projects\Yp NotePad-latest version-metro-stoped\YP NotePad\obj\Debug\YP NotePad.exe.licenses
+F:\YP\YP-buid 219.4\Yp-Projects\1-YP-Stoped Projects\Yp NotePad-latest version-metro-stoped\YP NotePad\obj\Debug\YP NotePad.TrustInfo.xml
+F:\YP\YP-buid 219.4\Yp-Projects\1-YP-Stoped Projects\Yp NotePad-latest version-metro-stoped\YP NotePad\obj\Debug\YP NotePad.exe.manifest
+F:\YP\YP-buid 219.4\Yp-Projects\1-YP-Stoped Projects\Yp NotePad-latest version-metro-stoped\YP NotePad\obj\Debug\YP NotePad.application
+F:\YP\YP-buid 219.4\Yp-Projects\1-YP-Stoped Projects\Yp NotePad-latest version-metro-stoped\YP NotePad\obj\Debug\YP NotePad.exe
+F:\YP\YP-buid 219.4\Yp-Projects\1-YP-Stoped Projects\Yp NotePad-latest version-metro-stoped\YP NotePad\obj\Debug\YP NotePad.pdb
+G:\Yp NotePad-latest version-metro-stoped\YP NotePad\obj\Debug\YP NotePad.csprojAssemblyReference.cache
+G:\Yp NotePad-latest version-metro-stoped\YP NotePad\obj\Debug\notepadyp.about.resources
+G:\Yp NotePad-latest version-metro-stoped\YP NotePad\obj\Debug\note_pad_yp.Form1.resources
+G:\Yp NotePad-latest version-metro-stoped\YP NotePad\obj\Debug\YP_NotePad.YPNotePad001.resources
+G:\Yp NotePad-latest version-metro-stoped\YP NotePad\obj\Debug\YP_NotePad.Properties.Resources.resources
+G:\Yp NotePad-latest version-metro-stoped\YP NotePad\obj\Debug\YP NotePad.csproj.GenerateResource.cache
+G:\Yp NotePad-latest version-metro-stoped\YP NotePad\obj\Debug\YP NotePad.exe.licenses
+G:\Yp NotePad-latest version-metro-stoped\YP NotePad\obj\Debug\YP NotePad.csproj.CoreCompileInputs.cache
+G:\Yp NotePad-latest version-metro-stoped\YP NotePad\obj\Debug\YP NotePad.exe
+G:\Yp NotePad-latest version-metro-stoped\YP NotePad\obj\Debug\YP NotePad.pdb
+G:\Yp NotePad-latest version-metro-stoped\YP NotePad\bin\Debug\YP NotePad.exe.config
+G:\Yp NotePad-latest version-metro-stoped\YP NotePad\bin\Debug\YP NotePad.exe.manifest
+G:\Yp NotePad-latest version-metro-stoped\YP NotePad\bin\Debug\YP NotePad.application
+G:\Yp NotePad-latest version-metro-stoped\YP NotePad\bin\Debug\YP NotePad.exe
+G:\Yp NotePad-latest version-metro-stoped\YP NotePad\bin\Debug\YP NotePad.pdb
+G:\Yp NotePad-latest version-metro-stoped\YP NotePad\bin\Debug\MetroFramework.Design.dll
+G:\Yp NotePad-latest version-metro-stoped\YP NotePad\bin\Debug\MetroFramework.dll
+G:\Yp NotePad-latest version-metro-stoped\YP NotePad\bin\Debug\MetroFramework.Fonts.dll
+G:\Yp NotePad-latest version-metro-stoped\YP NotePad\bin\Debug\Telerik.WinControls.dll
+G:\Yp NotePad-latest version-metro-stoped\YP NotePad\bin\Debug\Telerik.WinControls.Themes.Crystal.dll
+G:\Yp NotePad-latest version-metro-stoped\YP NotePad\bin\Debug\Telerik.WinControls.Themes.CrystalDark.dll
+G:\Yp NotePad-latest version-metro-stoped\YP NotePad\bin\Debug\Telerik.WinControls.Themes.Fluent.dll
+G:\Yp NotePad-latest version-metro-stoped\YP NotePad\bin\Debug\Telerik.WinControls.UI.dll
+G:\Yp NotePad-latest version-metro-stoped\YP NotePad\bin\Debug\TelerikCommon.dll
+G:\Yp NotePad-latest version-metro-stoped\YP NotePad\bin\Debug\Telerik.WinControls.xml
+G:\Yp NotePad-latest version-metro-stoped\YP NotePad\bin\Debug\Telerik.WinControls.UI.xml
+G:\Yp NotePad-latest version-metro-stoped\YP NotePad\obj\Debug\YP NotePad.TrustInfo.xml
+G:\Yp NotePad-latest version-metro-stoped\YP NotePad\obj\Debug\YP NotePad.exe.manifest
+G:\Yp NotePad-latest version-metro-stoped\YP NotePad\obj\Debug\YP NotePad.application
+G:\Yp NotePad-latest version-metro-stoped\YP NotePad\obj\Debug\YP NotePad.csproj.CopyComplete
+G:\Yp NotePad-Macos design\YP NotePad\obj\Debug\YP NotePad.csprojAssemblyReference.cache
+G:\Yp NotePad-Macos design\YP NotePad\obj\Debug\note_pad_yp.Form1.resources
+G:\Yp NotePad-Macos design\YP NotePad\obj\Debug\YP_NotePad.YPNotePad001.resources
+G:\Yp NotePad-Macos design\YP NotePad\obj\Debug\YP_NotePad.Properties.Resources.resources
+G:\Yp NotePad-Macos design\YP NotePad\obj\Debug\YP NotePad.csproj.GenerateResource.cache
+G:\Yp NotePad-Macos design\YP NotePad\obj\Debug\YP NotePad.exe.licenses
+G:\Yp NotePad-Macos design\YP NotePad\obj\Debug\YP NotePad.csproj.CoreCompileInputs.cache
+G:\Yp NotePad-Macos design\YP NotePad\obj\Debug\YP NotePad.exe
+G:\Yp NotePad-Macos design\YP NotePad\obj\Debug\YP NotePad.pdb
+G:\Yp NotePad-Macos design\YP NotePad\bin\Debug\YP NotePad.exe.config
+G:\Yp NotePad-Macos design\YP NotePad\bin\Debug\YP NotePad.exe.manifest
+G:\Yp NotePad-Macos design\YP NotePad\bin\Debug\YP NotePad.application
+G:\Yp NotePad-Macos design\YP NotePad\bin\Debug\YP NotePad.exe
+G:\Yp NotePad-Macos design\YP NotePad\bin\Debug\YP NotePad.pdb
+G:\Yp NotePad-Macos design\YP NotePad\bin\Debug\MetroFramework.Design.dll
+G:\Yp NotePad-Macos design\YP NotePad\bin\Debug\MetroFramework.dll
+G:\Yp NotePad-Macos design\YP NotePad\bin\Debug\MetroFramework.Fonts.dll
+G:\Yp NotePad-Macos design\YP NotePad\bin\Debug\Telerik.WinControls.dll
+G:\Yp NotePad-Macos design\YP NotePad\bin\Debug\Telerik.WinControls.RichTextEditor.dll
+G:\Yp NotePad-Macos design\YP NotePad\bin\Debug\Telerik.WinControls.Themes.Crystal.dll
+G:\Yp NotePad-Macos design\YP NotePad\bin\Debug\Telerik.WinControls.Themes.CrystalDark.dll
+G:\Yp NotePad-Macos design\YP NotePad\bin\Debug\Telerik.WinControls.Themes.Fluent.dll
+G:\Yp NotePad-Macos design\YP NotePad\bin\Debug\Telerik.WinControls.UI.dll
+G:\Yp NotePad-Macos design\YP NotePad\bin\Debug\TelerikCommon.dll
+G:\Yp NotePad-Macos design\YP NotePad\bin\Debug\Telerik.WinControls.xml
+G:\Yp NotePad-Macos design\YP NotePad\bin\Debug\Telerik.WinControls.RichTextEditor.xml
+G:\Yp NotePad-Macos design\YP NotePad\bin\Debug\Telerik.WinControls.UI.xml
+G:\Yp NotePad-Macos design\YP NotePad\obj\Debug\YP NotePad.TrustInfo.xml
+G:\Yp NotePad-Macos design\YP NotePad\obj\Debug\YP NotePad.exe.manifest
+G:\Yp NotePad-Macos design\YP NotePad\obj\Debug\YP NotePad.application
+G:\Yp NotePad-Macos design\YP NotePad\obj\Debug\YP NotePad.csproj.CopyComplete
+G:\Yp NotePad-Macos design\YP NotePad\obj\Debug\YP_NotePad.Form5.resources
+F:\Yp NotePad-Macos design\YP NotePad\bin\Debug\YP NotePad.exe.config
+F:\Yp NotePad-Macos design\YP NotePad\bin\Debug\YP NotePad.exe.manifest
+F:\Yp NotePad-Macos design\YP NotePad\bin\Debug\YP NotePad.application
+F:\Yp NotePad-Macos design\YP NotePad\bin\Debug\YP NotePad.exe
+F:\Yp NotePad-Macos design\YP NotePad\bin\Debug\YP NotePad.pdb
+F:\Yp NotePad-Macos design\YP NotePad\bin\Debug\MetroFramework.Design.dll
+F:\Yp NotePad-Macos design\YP NotePad\bin\Debug\MetroFramework.dll
+F:\Yp NotePad-Macos design\YP NotePad\bin\Debug\MetroFramework.Fonts.dll
+F:\Yp NotePad-Macos design\YP NotePad\bin\Debug\Telerik.WinControls.dll
+F:\Yp NotePad-Macos design\YP NotePad\bin\Debug\Telerik.WinControls.RichTextEditor.dll
+F:\Yp NotePad-Macos design\YP NotePad\bin\Debug\Telerik.WinControls.Themes.Crystal.dll
+F:\Yp NotePad-Macos design\YP NotePad\bin\Debug\Telerik.WinControls.Themes.CrystalDark.dll
+F:\Yp NotePad-Macos design\YP NotePad\bin\Debug\Telerik.WinControls.Themes.Fluent.dll
+F:\Yp NotePad-Macos design\YP NotePad\bin\Debug\Telerik.WinControls.UI.dll
+F:\Yp NotePad-Macos design\YP NotePad\bin\Debug\TelerikCommon.dll
+F:\Yp NotePad-Macos design\YP NotePad\bin\Debug\Telerik.WinControls.xml
+F:\Yp NotePad-Macos design\YP NotePad\bin\Debug\Telerik.WinControls.RichTextEditor.xml
+F:\Yp NotePad-Macos design\YP NotePad\bin\Debug\Telerik.WinControls.UI.xml
+F:\Yp NotePad-Macos design\YP NotePad\obj\Debug\YP NotePad.csprojAssemblyReference.cache
+F:\Yp NotePad-Macos design\YP NotePad\obj\Debug\YP_NotePad.Form5.resources
+F:\Yp NotePad-Macos design\YP NotePad\obj\Debug\YP_NotePad.YPNotePad001.resources
+F:\Yp NotePad-Macos design\YP NotePad\obj\Debug\YP_NotePad.Properties.Resources.resources
+F:\Yp NotePad-Macos design\YP NotePad\obj\Debug\YP NotePad.csproj.GenerateResource.cache
+F:\Yp NotePad-Macos design\YP NotePad\obj\Debug\YP NotePad.exe.licenses
+F:\Yp NotePad-Macos design\YP NotePad\obj\Debug\YP NotePad.csproj.CoreCompileInputs.cache
+F:\Yp NotePad-Macos design\YP NotePad\obj\Debug\YP NotePad.TrustInfo.xml
+F:\Yp NotePad-Macos design\YP NotePad\obj\Debug\YP NotePad.exe.manifest
+F:\Yp NotePad-Macos design\YP NotePad\obj\Debug\YP NotePad.application
+F:\Yp NotePad-Macos design\YP NotePad\obj\Debug\YP NotePad.csproj.CopyComplete
+F:\Yp NotePad-Macos design\YP NotePad\obj\Debug\YP NotePad.exe
+F:\Yp NotePad-Macos design\YP NotePad\obj\Debug\YP NotePad.pdb
+F:\Yp NotePad-Macos design\YP NotePad\obj\Debug\note_pad_yp.Form12.resources
+F:\Yp NotePad-Macos design\YP NotePad\obj\Debug\YP_NotePad.Form11.resources
+C:\Users\alire\Desktop\YP\YP Build 2019.6\Yp NotePad-Macos design\YP NotePad\bin\Debug\YP NotePad.exe.config
+C:\Users\alire\Desktop\YP\YP Build 2019.6\Yp NotePad-Macos design\YP NotePad\bin\Debug\YP NotePad.exe.manifest
+C:\Users\alire\Desktop\YP\YP Build 2019.6\Yp NotePad-Macos design\YP NotePad\bin\Debug\YP NotePad.application
+C:\Users\alire\Desktop\YP\YP Build 2019.6\Yp NotePad-Macos design\YP NotePad\bin\Debug\YP NotePad.exe
+C:\Users\alire\Desktop\YP\YP Build 2019.6\Yp NotePad-Macos design\YP NotePad\bin\Debug\YP NotePad.pdb
+C:\Users\alire\Desktop\YP\YP Build 2019.6\Yp NotePad-Macos design\YP NotePad\bin\Debug\YP NotePad.exe.CodeAnalysisLog.xml
+C:\Users\alire\Desktop\YP\YP Build 2019.6\Yp NotePad-Macos design\YP NotePad\bin\Debug\YP NotePad.exe.lastcodeanalysissucceeded
+C:\Users\alire\Desktop\YP\YP Build 2019.6\Yp NotePad-Macos design\YP NotePad\bin\Debug\MetroFramework.Design.dll
+C:\Users\alire\Desktop\YP\YP Build 2019.6\Yp NotePad-Macos design\YP NotePad\bin\Debug\MetroFramework.dll
+C:\Users\alire\Desktop\YP\YP Build 2019.6\Yp NotePad-Macos design\YP NotePad\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\alire\Desktop\YP\YP Build 2019.6\Yp NotePad-Macos design\YP NotePad\bin\Debug\Telerik.WinControls.xml
+C:\Users\alire\Desktop\YP\YP Build 2019.6\Yp NotePad-Macos design\YP NotePad\bin\Debug\Telerik.WinControls.RichTextEditor.xml
+C:\Users\alire\Desktop\YP\YP Build 2019.6\Yp NotePad-Macos design\YP NotePad\bin\Debug\Telerik.WinControls.UI.xml
+C:\Users\alire\Desktop\YP\YP Build 2019.6\Yp NotePad-Macos design\YP NotePad\obj\Debug\YP NotePad.csprojAssemblyReference.cache
+C:\Users\alire\Desktop\YP\YP Build 2019.6\Yp NotePad-Macos design\YP NotePad\obj\Debug\YP NotePad.exe.config
+C:\Users\alire\Desktop\YP\YP Build 2019.6\Yp NotePad-Macos design\YP NotePad\obj\Debug\YP_NotePad.Form11.resources
+C:\Users\alire\Desktop\YP\YP Build 2019.6\Yp NotePad-Macos design\YP NotePad\obj\Debug\note_pad_yp.Form12.resources
+C:\Users\alire\Desktop\YP\YP Build 2019.6\Yp NotePad-Macos design\YP NotePad\obj\Debug\YP_NotePad.Form5.resources
+C:\Users\alire\Desktop\YP\YP Build 2019.6\Yp NotePad-Macos design\YP NotePad\obj\Debug\YP_NotePad.YPNotePad001.resources
+C:\Users\alire\Desktop\YP\YP Build 2019.6\Yp NotePad-Macos design\YP NotePad\obj\Debug\YP_NotePad.Properties.Resources.resources
+C:\Users\alire\Desktop\YP\YP Build 2019.6\Yp NotePad-Macos design\YP NotePad\obj\Debug\YP NotePad.csproj.GenerateResource.cache
+C:\Users\alire\Desktop\YP\YP Build 2019.6\Yp NotePad-Macos design\YP NotePad\obj\Debug\YP NotePad.exe.licenses
+C:\Users\alire\Desktop\YP\YP Build 2019.6\Yp NotePad-Macos design\YP NotePad\obj\Debug\YP NotePad.csproj.CoreCompileInputs.cache
+C:\Users\alire\Desktop\YP\YP Build 2019.6\Yp NotePad-Macos design\YP NotePad\obj\Debug\YP NotePad.TrustInfo.xml
+C:\Users\alire\Desktop\YP\YP Build 2019.6\Yp NotePad-Macos design\YP NotePad\obj\Debug\YP NotePad.exe.manifest
+C:\Users\alire\Desktop\YP\YP Build 2019.6\Yp NotePad-Macos design\YP NotePad\obj\Debug\YP NotePad.application
+C:\Users\alire\Desktop\YP\YP Build 2019.6\Yp NotePad-Macos design\YP NotePad\obj\Debug\YP NotePad.csproj.CopyComplete
+C:\Users\alire\Desktop\YP\YP Build 2019.6\Yp NotePad-Macos design\YP NotePad\obj\Debug\YP NotePad.exe
+C:\Users\alire\Desktop\YP\YP Build 2019.6\Yp NotePad-Macos design\YP NotePad\obj\Debug\YP NotePad.pdb
+C:\Users\Acer\Desktop\YP Build 2019.6\Yp NotePad-Macos design\YP NotePad\bin\Debug\YP NotePad.exe.config
+C:\Users\Acer\Desktop\YP Build 2019.6\Yp NotePad-Macos design\YP NotePad\bin\Debug\YP NotePad.exe.manifest
+C:\Users\Acer\Desktop\YP Build 2019.6\Yp NotePad-Macos design\YP NotePad\bin\Debug\YP NotePad.application
+C:\Users\Acer\Desktop\YP Build 2019.6\Yp NotePad-Macos design\YP NotePad\bin\Debug\YP NotePad.exe
+C:\Users\Acer\Desktop\YP Build 2019.6\Yp NotePad-Macos design\YP NotePad\bin\Debug\YP NotePad.pdb
+C:\Users\Acer\Desktop\YP Build 2019.6\Yp NotePad-Macos design\YP NotePad\bin\Debug\MetroFramework.Design.dll
+C:\Users\Acer\Desktop\YP Build 2019.6\Yp NotePad-Macos design\YP NotePad\bin\Debug\MetroFramework.dll
+C:\Users\Acer\Desktop\YP Build 2019.6\Yp NotePad-Macos design\YP NotePad\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Acer\Desktop\YP Build 2019.6\Yp NotePad-Macos design\YP NotePad\bin\Debug\Telerik.WinControls.dll
+C:\Users\Acer\Desktop\YP Build 2019.6\Yp NotePad-Macos design\YP NotePad\bin\Debug\Telerik.WinControls.RichTextEditor.dll
+C:\Users\Acer\Desktop\YP Build 2019.6\Yp NotePad-Macos design\YP NotePad\bin\Debug\Telerik.WinControls.Themes.Crystal.dll
+C:\Users\Acer\Desktop\YP Build 2019.6\Yp NotePad-Macos design\YP NotePad\bin\Debug\Telerik.WinControls.Themes.CrystalDark.dll
+C:\Users\Acer\Desktop\YP Build 2019.6\Yp NotePad-Macos design\YP NotePad\bin\Debug\Telerik.WinControls.Themes.Fluent.dll
+C:\Users\Acer\Desktop\YP Build 2019.6\Yp NotePad-Macos design\YP NotePad\bin\Debug\Telerik.WinControls.UI.dll
+C:\Users\Acer\Desktop\YP Build 2019.6\Yp NotePad-Macos design\YP NotePad\bin\Debug\TelerikCommon.dll
+C:\Users\Acer\Desktop\YP Build 2019.6\Yp NotePad-Macos design\YP NotePad\bin\Debug\Telerik.WinControls.xml
+C:\Users\Acer\Desktop\YP Build 2019.6\Yp NotePad-Macos design\YP NotePad\bin\Debug\Telerik.WinControls.RichTextEditor.xml
+C:\Users\Acer\Desktop\YP Build 2019.6\Yp NotePad-Macos design\YP NotePad\bin\Debug\Telerik.WinControls.UI.xml
+C:\Users\Acer\Desktop\YP Build 2019.6\Yp NotePad-Macos design\YP NotePad\obj\Debug\YP NotePad.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\YP Build 2019.6\Yp NotePad-Macos design\YP NotePad\obj\Debug\YP NotePad.csproj.SuggestedBindingRedirects.cache
+C:\Users\Acer\Desktop\YP Build 2019.6\Yp NotePad-Macos design\YP NotePad\obj\Debug\YP_NotePad.Form11.resources
+C:\Users\Acer\Desktop\YP Build 2019.6\Yp NotePad-Macos design\YP NotePad\obj\Debug\note_pad_yp.Form12.resources
+C:\Users\Acer\Desktop\YP Build 2019.6\Yp NotePad-Macos design\YP NotePad\obj\Debug\YP_NotePad.Form5.resources
+C:\Users\Acer\Desktop\YP Build 2019.6\Yp NotePad-Macos design\YP NotePad\obj\Debug\YP_NotePad.YPNotePad001.resources
+C:\Users\Acer\Desktop\YP Build 2019.6\Yp NotePad-Macos design\YP NotePad\obj\Debug\YP_NotePad.Properties.Resources.resources
+C:\Users\Acer\Desktop\YP Build 2019.6\Yp NotePad-Macos design\YP NotePad\obj\Debug\YP NotePad.csproj.GenerateResource.cache
+C:\Users\Acer\Desktop\YP Build 2019.6\Yp NotePad-Macos design\YP NotePad\obj\Debug\YP NotePad.exe.licenses
+C:\Users\Acer\Desktop\YP Build 2019.6\Yp NotePad-Macos design\YP NotePad\obj\Debug\YP NotePad.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\YP Build 2019.6\Yp NotePad-Macos design\YP NotePad\obj\Debug\YP NotePad.TrustInfo.xml
+C:\Users\Acer\Desktop\YP Build 2019.6\Yp NotePad-Macos design\YP NotePad\obj\Debug\YP NotePad.exe.manifest
+C:\Users\Acer\Desktop\YP Build 2019.6\Yp NotePad-Macos design\YP NotePad\obj\Debug\YP NotePad.application
+C:\Users\Acer\Desktop\YP Build 2019.6\Yp NotePad-Macos design\YP NotePad\obj\Debug\YP NotePad.csproj.CopyComplete
+C:\Users\Acer\Desktop\YP Build 2019.6\Yp NotePad-Macos design\YP NotePad\obj\Debug\YP NotePad.exe
+C:\Users\Acer\Desktop\YP Build 2019.6\Yp NotePad-Macos design\YP NotePad\obj\Debug\YP NotePad.pdb
+C:\Users\Acer\Desktop\Yp NotePad-Macos design\YP NotePad\bin\Debug\YP NotePad.exe.config
+C:\Users\Acer\Desktop\Yp NotePad-Macos design\YP NotePad\bin\Debug\YP NotePad.exe.manifest
+C:\Users\Acer\Desktop\Yp NotePad-Macos design\YP NotePad\bin\Debug\YP NotePad.application
+C:\Users\Acer\Desktop\Yp NotePad-Macos design\YP NotePad\bin\Debug\YP NotePad.exe
+C:\Users\Acer\Desktop\Yp NotePad-Macos design\YP NotePad\bin\Debug\YP NotePad.pdb
+C:\Users\Acer\Desktop\Yp NotePad-Macos design\YP NotePad\bin\Debug\Telerik.WinControls.dll
+C:\Users\Acer\Desktop\Yp NotePad-Macos design\YP NotePad\bin\Debug\Telerik.WinControls.RichTextEditor.dll
+C:\Users\Acer\Desktop\Yp NotePad-Macos design\YP NotePad\bin\Debug\Telerik.WinControls.Themes.Crystal.dll
+C:\Users\Acer\Desktop\Yp NotePad-Macos design\YP NotePad\bin\Debug\Telerik.WinControls.Themes.CrystalDark.dll
+C:\Users\Acer\Desktop\Yp NotePad-Macos design\YP NotePad\bin\Debug\Telerik.WinControls.Themes.Fluent.dll
+C:\Users\Acer\Desktop\Yp NotePad-Macos design\YP NotePad\bin\Debug\Telerik.WinControls.Themes.TelerikMetro.dll
+C:\Users\Acer\Desktop\Yp NotePad-Macos design\YP NotePad\bin\Debug\Telerik.WinControls.Themes.TelerikMetroBlue.dll
+C:\Users\Acer\Desktop\Yp NotePad-Macos design\YP NotePad\bin\Debug\Telerik.WinControls.Themes.TelerikMetroTouch.dll
+C:\Users\Acer\Desktop\Yp NotePad-Macos design\YP NotePad\bin\Debug\Telerik.WinControls.Themes.VisualStudio2012Dark.dll
+C:\Users\Acer\Desktop\Yp NotePad-Macos design\YP NotePad\bin\Debug\Telerik.WinControls.Themes.VisualStudio2012Light.dll
+C:\Users\Acer\Desktop\Yp NotePad-Macos design\YP NotePad\bin\Debug\Telerik.WinControls.Themes.Windows7.dll
+C:\Users\Acer\Desktop\Yp NotePad-Macos design\YP NotePad\bin\Debug\Telerik.WinControls.Themes.Windows8.dll
+C:\Users\Acer\Desktop\Yp NotePad-Macos design\YP NotePad\bin\Debug\Telerik.WinControls.UI.Design.dll
+C:\Users\Acer\Desktop\Yp NotePad-Macos design\YP NotePad\bin\Debug\Telerik.WinControls.UI.dll
+C:\Users\Acer\Desktop\Yp NotePad-Macos design\YP NotePad\bin\Debug\Telerik.Windows.Documents.Core.dll
+C:\Users\Acer\Desktop\Yp NotePad-Macos design\YP NotePad\bin\Debug\Telerik.Windows.Documents.Fixed.dll
+C:\Users\Acer\Desktop\Yp NotePad-Macos design\YP NotePad\bin\Debug\Telerik.Windows.Documents.Flow.dll
+C:\Users\Acer\Desktop\Yp NotePad-Macos design\YP NotePad\bin\Debug\Telerik.Windows.Documents.Flow.FormatProviders.Pdf.dll
+C:\Users\Acer\Desktop\Yp NotePad-Macos design\YP NotePad\bin\Debug\Telerik.Windows.Documents.Spreadsheet.dll
+C:\Users\Acer\Desktop\Yp NotePad-Macos design\YP NotePad\bin\Debug\Telerik.Windows.Documents.Spreadsheet.FormatProviders.OpenXml.dll
+C:\Users\Acer\Desktop\Yp NotePad-Macos design\YP NotePad\bin\Debug\Telerik.Windows.Documents.Spreadsheet.FormatProviders.Pdf.dll
+C:\Users\Acer\Desktop\Yp NotePad-Macos design\YP NotePad\bin\Debug\Telerik.Windows.Zip.dll
+C:\Users\Acer\Desktop\Yp NotePad-Macos design\YP NotePad\bin\Debug\TelerikCommon.dll
+C:\Users\Acer\Desktop\Yp NotePad-Macos design\YP NotePad\bin\Debug\TelerikData.dll
+C:\Users\Acer\Desktop\Yp NotePad-Macos design\YP NotePad\bin\Debug\TelerikExport.dll
+C:\Users\Acer\Desktop\Yp NotePad-Macos design\YP NotePad\bin\Debug\TelerikProviderForGoogleAnalytics.dll
+C:\Users\Acer\Desktop\Yp NotePad-Macos design\YP NotePad\bin\Debug\ThemeViewer.exe
+C:\Users\Acer\Desktop\Yp NotePad-Macos design\YP NotePad\bin\Debug\VisualStyleBuilder.Design.dll
+C:\Users\Acer\Desktop\Yp NotePad-Macos design\YP NotePad\bin\Debug\VisualStyleBuilder.exe
+C:\Users\Acer\Desktop\Yp NotePad-Macos design\YP NotePad\bin\Debug\Telerik.WinControls.PivotGrid.dll
+C:\Users\Acer\Desktop\Yp NotePad-Macos design\YP NotePad\bin\Debug\Telerik.WinControls.GridView.dll
+C:\Users\Acer\Desktop\Yp NotePad-Macos design\YP NotePad\bin\Debug\Telerik.WinControls.RadChart.dll
+C:\Users\Acer\Desktop\Yp NotePad-Macos design\YP NotePad\bin\Debug\Telerik.WinControls.RadDock.dll
+C:\Users\Acer\Desktop\Yp NotePad-Macos design\YP NotePad\bin\Debug\Telerik.WinControls.RadMarkupEditor.dll
+C:\Users\Acer\Desktop\Yp NotePad-Macos design\YP NotePad\bin\Debug\Telerik.WinControls.RadDiagram.dll
+C:\Users\Acer\Desktop\Yp NotePad-Macos design\YP NotePad\bin\Debug\Telerik.WinControls.PdfViewer.dll
+C:\Users\Acer\Desktop\Yp NotePad-Macos design\YP NotePad\bin\Debug\Telerik.WinControls.ChartView.dll
+C:\Users\Acer\Desktop\Yp NotePad-Macos design\YP NotePad\bin\Debug\Telerik.WinControls.Scheduler.dll
+C:\Users\Acer\Desktop\Yp NotePad-Macos design\YP NotePad\bin\Debug\Telerik.WinControls.Themes.HighContrastBlack.dll
+C:\Users\Acer\Desktop\Yp NotePad-Macos design\YP NotePad\bin\Debug\Telerik.WinControls.RadMap.dll
+C:\Users\Acer\Desktop\Yp NotePad-Macos design\YP NotePad\bin\Debug\Telerik.WinControls.RadSpreadsheet.dll
+C:\Users\Acer\Desktop\Yp NotePad-Macos design\YP NotePad\bin\Debug\Telerik.Documents.SpreadsheetStreaming.dll
+C:\Users\Acer\Desktop\Yp NotePad-Macos design\YP NotePad\bin\Debug\RadControlSpy.dll
+C:\Users\Acer\Desktop\Yp NotePad-Macos design\YP NotePad\bin\Debug\Telerik.WinControls.Themes.Aqua.dll
+C:\Users\Acer\Desktop\Yp NotePad-Macos design\YP NotePad\bin\Debug\Telerik.WinControls.Themes.Breeze.dll
+C:\Users\Acer\Desktop\Yp NotePad-Macos design\YP NotePad\bin\Debug\Telerik.WinControls.Themes.Desert.dll
+C:\Users\Acer\Desktop\Yp NotePad-Macos design\YP NotePad\bin\Debug\Telerik.WinControls.Themes.Office2007Black.dll
+C:\Users\Acer\Desktop\Yp NotePad-Macos design\YP NotePad\bin\Debug\Telerik.WinControls.Themes.Office2007Silver.dll
+C:\Users\Acer\Desktop\Yp NotePad-Macos design\YP NotePad\bin\Debug\Telerik.WinControls.Themes.Office2010Black.dll
+C:\Users\Acer\Desktop\Yp NotePad-Macos design\YP NotePad\bin\Debug\Telerik.WinControls.Themes.Office2010Blue.dll
+C:\Users\Acer\Desktop\Yp NotePad-Macos design\YP NotePad\bin\Debug\Telerik.WinControls.Themes.Office2010Silver.dll
+C:\Users\Acer\Desktop\Yp NotePad-Macos design\YP NotePad\bin\Debug\Telerik.WinControls.Themes.Office2013Light.dll
+C:\Users\Acer\Desktop\Yp NotePad-Macos design\YP NotePad\bin\Debug\Telerik.WinControls.Themes.Office2013Dark.dll
+C:\Users\Acer\Desktop\Yp NotePad-Macos design\YP NotePad\bin\Debug\Telerik.WinControls.Themes.Material.dll
+C:\Users\Acer\Desktop\Yp NotePad-Macos design\YP NotePad\bin\Debug\Telerik.WinControls.Themes.MaterialPink.dll
+C:\Users\Acer\Desktop\Yp NotePad-Macos design\YP NotePad\bin\Debug\Telerik.WinControls.Themes.MaterialTeal.dll
+C:\Users\Acer\Desktop\Yp NotePad-Macos design\YP NotePad\bin\Debug\Telerik.WinControls.Themes.MaterialBlueGrey.dll
+C:\Users\Acer\Desktop\Yp NotePad-Macos design\YP NotePad\bin\Debug\Telerik.WinControls.Themes.FluentDark.dll
+C:\Users\Acer\Desktop\Yp NotePad-Macos design\YP NotePad\bin\Debug\Microsoft.AnalysisServices.AdomdClient.dll
+C:\Users\Acer\Desktop\Yp NotePad-Macos design\YP NotePad\bin\Debug\Microsoft.mshtml.dll
+C:\Users\Acer\Desktop\Yp NotePad-Macos design\YP NotePad\bin\Debug\Telerik.WinControls.xml
+C:\Users\Acer\Desktop\Yp NotePad-Macos design\YP NotePad\bin\Debug\Telerik.WinControls.RichTextEditor.xml
+C:\Users\Acer\Desktop\Yp NotePad-Macos design\YP NotePad\bin\Debug\Telerik.WinControls.UI.xml
+C:\Users\Acer\Desktop\Yp NotePad-Macos design\YP NotePad\bin\Debug\Telerik.Windows.Documents.Core.xml
+C:\Users\Acer\Desktop\Yp NotePad-Macos design\YP NotePad\bin\Debug\Telerik.Windows.Documents.Fixed.xml
+C:\Users\Acer\Desktop\Yp NotePad-Macos design\YP NotePad\bin\Debug\Telerik.Windows.Documents.Flow.xml
+C:\Users\Acer\Desktop\Yp NotePad-Macos design\YP NotePad\bin\Debug\Telerik.Windows.Documents.Flow.FormatProviders.Pdf.xml
+C:\Users\Acer\Desktop\Yp NotePad-Macos design\YP NotePad\bin\Debug\Telerik.Windows.Documents.Spreadsheet.xml
+C:\Users\Acer\Desktop\Yp NotePad-Macos design\YP NotePad\bin\Debug\Telerik.Windows.Documents.Spreadsheet.FormatProviders.OpenXml.xml
+C:\Users\Acer\Desktop\Yp NotePad-Macos design\YP NotePad\bin\Debug\Telerik.Windows.Documents.Spreadsheet.FormatProviders.Pdf.xml
+C:\Users\Acer\Desktop\Yp NotePad-Macos design\YP NotePad\bin\Debug\Telerik.Windows.Zip.xml
+C:\Users\Acer\Desktop\Yp NotePad-Macos design\YP NotePad\bin\Debug\TelerikData.xml
+C:\Users\Acer\Desktop\Yp NotePad-Macos design\YP NotePad\bin\Debug\TelerikExport.xml
+C:\Users\Acer\Desktop\Yp NotePad-Macos design\YP NotePad\bin\Debug\ThemeViewer.exe.config
+C:\Users\Acer\Desktop\Yp NotePad-Macos design\YP NotePad\bin\Debug\VisualStyleBuilder.exe.config
+C:\Users\Acer\Desktop\Yp NotePad-Macos design\YP NotePad\bin\Debug\Telerik.WinControls.PivotGrid.xml
+C:\Users\Acer\Desktop\Yp NotePad-Macos design\YP NotePad\bin\Debug\Telerik.WinControls.GridView.xml
+C:\Users\Acer\Desktop\Yp NotePad-Macos design\YP NotePad\bin\Debug\Telerik.WinControls.RadChart.xml
+C:\Users\Acer\Desktop\Yp NotePad-Macos design\YP NotePad\bin\Debug\Telerik.WinControls.RadDock.xml
+C:\Users\Acer\Desktop\Yp NotePad-Macos design\YP NotePad\bin\Debug\Telerik.WinControls.RadMarkupEditor.xml
+C:\Users\Acer\Desktop\Yp NotePad-Macos design\YP NotePad\bin\Debug\Telerik.WinControls.RadDiagram.xml
+C:\Users\Acer\Desktop\Yp NotePad-Macos design\YP NotePad\bin\Debug\Telerik.WinControls.PdfViewer.xml
+C:\Users\Acer\Desktop\Yp NotePad-Macos design\YP NotePad\bin\Debug\Telerik.WinControls.ChartView.xml
+C:\Users\Acer\Desktop\Yp NotePad-Macos design\YP NotePad\bin\Debug\Telerik.WinControls.Scheduler.xml
+C:\Users\Acer\Desktop\Yp NotePad-Macos design\YP NotePad\bin\Debug\Telerik.WinControls.RadMap.xml
+C:\Users\Acer\Desktop\Yp NotePad-Macos design\YP NotePad\bin\Debug\Telerik.WinControls.RadSpreadsheet.xml
+C:\Users\Acer\Desktop\Yp NotePad-Macos design\YP NotePad\bin\Debug\Telerik.WinControls.RadSpreadsheet.dll.config
+C:\Users\Acer\Desktop\Yp NotePad-Macos design\YP NotePad\bin\Debug\Telerik.Documents.SpreadsheetStreaming.xml
+C:\Users\Acer\Desktop\Yp NotePad-Macos design\YP NotePad\obj\Debug\YP NotePad.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\Yp NotePad-Macos design\YP NotePad\obj\Debug\YP NotePad.csproj.SuggestedBindingRedirects.cache
+C:\Users\Acer\Desktop\Yp NotePad-Macos design\YP NotePad\obj\Debug\YP_NotePad.Properties.Resources.resources
+C:\Users\Acer\Desktop\Yp NotePad-Macos design\YP NotePad\obj\Debug\YP NotePad.csproj.GenerateResource.cache
+C:\Users\Acer\Desktop\Yp NotePad-Macos design\YP NotePad\obj\Debug\YP NotePad.exe.licenses
+C:\Users\Acer\Desktop\Yp NotePad-Macos design\YP NotePad\obj\Debug\YP NotePad.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\Yp NotePad-Macos design\YP NotePad\obj\Debug\YP NotePad.TrustInfo.xml
+C:\Users\Acer\Desktop\Yp NotePad-Macos design\YP NotePad\obj\Debug\YP NotePad.exe.manifest
+C:\Users\Acer\Desktop\Yp NotePad-Macos design\YP NotePad\obj\Debug\YP NotePad.application
+C:\Users\Acer\Desktop\Yp NotePad-Macos design\YP NotePad\obj\Debug\YP NotePad.csproj.CopyComplete
+C:\Users\Acer\Desktop\Yp NotePad-Macos design\YP NotePad\obj\Debug\YP NotePad.exe
+C:\Users\Acer\Desktop\Yp NotePad-Macos design\YP NotePad\obj\Debug\YP NotePad.pdb
+C:\Users\Acer\Desktop\Yp NotePad-Macos design\YP NotePad\obj\Debug\YP_NotePad.notePad.resources
+C:\Users\Acer\Desktop\Yp NotePad-Macos design\YP NotePad\obj\Debug\YP_NotePad.aboutFrm.resources
+C:\Users\Acer\Desktop\Yp NotePad-Macos design\YP NotePad\obj\Debug\note_pad_yp.helpFrm.resources
+C:\Users\Acer\Desktop\YP NotePad\bin\Debug\YP NotePad.exe.config
+C:\Users\Acer\Desktop\YP NotePad\bin\Debug\YP NotePad.exe.manifest
+C:\Users\Acer\Desktop\YP NotePad\bin\Debug\YP NotePad.application
+C:\Users\Acer\Desktop\YP NotePad\bin\Debug\YP NotePad.exe
+C:\Users\Acer\Desktop\YP NotePad\bin\Debug\YP NotePad.pdb
+C:\Users\Acer\Desktop\YP NotePad\bin\Debug\Telerik.WinControls.dll
+C:\Users\Acer\Desktop\YP NotePad\bin\Debug\Telerik.WinControls.RichTextEditor.dll
+C:\Users\Acer\Desktop\YP NotePad\bin\Debug\Telerik.WinControls.Themes.Crystal.dll
+C:\Users\Acer\Desktop\YP NotePad\bin\Debug\Telerik.WinControls.Themes.CrystalDark.dll
+C:\Users\Acer\Desktop\YP NotePad\bin\Debug\Telerik.WinControls.Themes.Fluent.dll
+C:\Users\Acer\Desktop\YP NotePad\bin\Debug\Telerik.WinControls.Themes.TelerikMetro.dll
+C:\Users\Acer\Desktop\YP NotePad\bin\Debug\Telerik.WinControls.Themes.TelerikMetroBlue.dll
+C:\Users\Acer\Desktop\YP NotePad\bin\Debug\Telerik.WinControls.Themes.TelerikMetroTouch.dll
+C:\Users\Acer\Desktop\YP NotePad\bin\Debug\Telerik.WinControls.Themes.VisualStudio2012Dark.dll
+C:\Users\Acer\Desktop\YP NotePad\bin\Debug\Telerik.WinControls.Themes.VisualStudio2012Light.dll
+C:\Users\Acer\Desktop\YP NotePad\bin\Debug\Telerik.WinControls.Themes.Windows7.dll
+C:\Users\Acer\Desktop\YP NotePad\bin\Debug\Telerik.WinControls.Themes.Windows8.dll
+C:\Users\Acer\Desktop\YP NotePad\bin\Debug\Telerik.WinControls.UI.Design.dll
+C:\Users\Acer\Desktop\YP NotePad\bin\Debug\Telerik.WinControls.UI.dll
+C:\Users\Acer\Desktop\YP NotePad\bin\Debug\Telerik.Windows.Documents.Core.dll
+C:\Users\Acer\Desktop\YP NotePad\bin\Debug\Telerik.Windows.Documents.Fixed.dll
+C:\Users\Acer\Desktop\YP NotePad\bin\Debug\Telerik.Windows.Documents.Flow.dll
+C:\Users\Acer\Desktop\YP NotePad\bin\Debug\Telerik.Windows.Documents.Flow.FormatProviders.Pdf.dll
+C:\Users\Acer\Desktop\YP NotePad\bin\Debug\Telerik.Windows.Documents.Spreadsheet.dll
+C:\Users\Acer\Desktop\YP NotePad\bin\Debug\Telerik.Windows.Documents.Spreadsheet.FormatProviders.OpenXml.dll
+C:\Users\Acer\Desktop\YP NotePad\bin\Debug\Telerik.Windows.Documents.Spreadsheet.FormatProviders.Pdf.dll
+C:\Users\Acer\Desktop\YP NotePad\bin\Debug\Telerik.Windows.Zip.dll
+C:\Users\Acer\Desktop\YP NotePad\bin\Debug\TelerikCommon.dll
+C:\Users\Acer\Desktop\YP NotePad\bin\Debug\TelerikData.dll
+C:\Users\Acer\Desktop\YP NotePad\bin\Debug\TelerikExport.dll
+C:\Users\Acer\Desktop\YP NotePad\bin\Debug\TelerikProviderForGoogleAnalytics.dll
+C:\Users\Acer\Desktop\YP NotePad\bin\Debug\ThemeViewer.exe
+C:\Users\Acer\Desktop\YP NotePad\bin\Debug\VisualStyleBuilder.Design.dll
+C:\Users\Acer\Desktop\YP NotePad\bin\Debug\VisualStyleBuilder.exe
+C:\Users\Acer\Desktop\YP NotePad\bin\Debug\Telerik.WinControls.PivotGrid.dll
+C:\Users\Acer\Desktop\YP NotePad\bin\Debug\Telerik.WinControls.GridView.dll
+C:\Users\Acer\Desktop\YP NotePad\bin\Debug\Telerik.WinControls.RadChart.dll
+C:\Users\Acer\Desktop\YP NotePad\bin\Debug\Telerik.WinControls.RadDock.dll
+C:\Users\Acer\Desktop\YP NotePad\bin\Debug\Telerik.WinControls.RadMarkupEditor.dll
+C:\Users\Acer\Desktop\YP NotePad\bin\Debug\Telerik.WinControls.RadDiagram.dll
+C:\Users\Acer\Desktop\YP NotePad\bin\Debug\Telerik.WinControls.PdfViewer.dll
+C:\Users\Acer\Desktop\YP NotePad\bin\Debug\Telerik.WinControls.ChartView.dll
+C:\Users\Acer\Desktop\YP NotePad\bin\Debug\Telerik.WinControls.Scheduler.dll
+C:\Users\Acer\Desktop\YP NotePad\bin\Debug\Telerik.WinControls.Themes.HighContrastBlack.dll
+C:\Users\Acer\Desktop\YP NotePad\bin\Debug\Telerik.WinControls.RadMap.dll
+C:\Users\Acer\Desktop\YP NotePad\bin\Debug\Telerik.WinControls.RadSpreadsheet.dll
+C:\Users\Acer\Desktop\YP NotePad\bin\Debug\Telerik.Documents.SpreadsheetStreaming.dll
+C:\Users\Acer\Desktop\YP NotePad\bin\Debug\RadControlSpy.dll
+C:\Users\Acer\Desktop\YP NotePad\bin\Debug\Telerik.WinControls.Themes.Aqua.dll
+C:\Users\Acer\Desktop\YP NotePad\bin\Debug\Telerik.WinControls.Themes.Breeze.dll
+C:\Users\Acer\Desktop\YP NotePad\bin\Debug\Telerik.WinControls.Themes.Desert.dll
+C:\Users\Acer\Desktop\YP NotePad\bin\Debug\Telerik.WinControls.Themes.Office2007Black.dll
+C:\Users\Acer\Desktop\YP NotePad\bin\Debug\Telerik.WinControls.Themes.Office2007Silver.dll
+C:\Users\Acer\Desktop\YP NotePad\bin\Debug\Telerik.WinControls.Themes.Office2010Black.dll
+C:\Users\Acer\Desktop\YP NotePad\bin\Debug\Telerik.WinControls.Themes.Office2010Blue.dll
+C:\Users\Acer\Desktop\YP NotePad\bin\Debug\Telerik.WinControls.Themes.Office2010Silver.dll
+C:\Users\Acer\Desktop\YP NotePad\bin\Debug\Telerik.WinControls.Themes.Office2013Light.dll
+C:\Users\Acer\Desktop\YP NotePad\bin\Debug\Telerik.WinControls.Themes.Office2013Dark.dll
+C:\Users\Acer\Desktop\YP NotePad\bin\Debug\Telerik.WinControls.Themes.Material.dll
+C:\Users\Acer\Desktop\YP NotePad\bin\Debug\Telerik.WinControls.Themes.MaterialPink.dll
+C:\Users\Acer\Desktop\YP NotePad\bin\Debug\Telerik.WinControls.Themes.MaterialTeal.dll
+C:\Users\Acer\Desktop\YP NotePad\bin\Debug\Telerik.WinControls.Themes.MaterialBlueGrey.dll
+C:\Users\Acer\Desktop\YP NotePad\bin\Debug\Telerik.WinControls.Themes.FluentDark.dll
+C:\Users\Acer\Desktop\YP NotePad\bin\Debug\Microsoft.AnalysisServices.AdomdClient.dll
+C:\Users\Acer\Desktop\YP NotePad\bin\Debug\Microsoft.mshtml.dll
+C:\Users\Acer\Desktop\YP NotePad\bin\Debug\Telerik.WinControls.xml
+C:\Users\Acer\Desktop\YP NotePad\bin\Debug\Telerik.WinControls.RichTextEditor.xml
+C:\Users\Acer\Desktop\YP NotePad\bin\Debug\Telerik.WinControls.UI.xml
+C:\Users\Acer\Desktop\YP NotePad\bin\Debug\Telerik.Windows.Documents.Core.xml
+C:\Users\Acer\Desktop\YP NotePad\bin\Debug\Telerik.Windows.Documents.Fixed.xml
+C:\Users\Acer\Desktop\YP NotePad\bin\Debug\Telerik.Windows.Documents.Flow.xml
+C:\Users\Acer\Desktop\YP NotePad\bin\Debug\Telerik.Windows.Documents.Flow.FormatProviders.Pdf.xml
+C:\Users\Acer\Desktop\YP NotePad\bin\Debug\Telerik.Windows.Documents.Spreadsheet.xml
+C:\Users\Acer\Desktop\YP NotePad\bin\Debug\Telerik.Windows.Documents.Spreadsheet.FormatProviders.OpenXml.xml
+C:\Users\Acer\Desktop\YP NotePad\bin\Debug\Telerik.Windows.Documents.Spreadsheet.FormatProviders.Pdf.xml
+C:\Users\Acer\Desktop\YP NotePad\bin\Debug\Telerik.Windows.Zip.xml
+C:\Users\Acer\Desktop\YP NotePad\bin\Debug\TelerikData.xml
+C:\Users\Acer\Desktop\YP NotePad\bin\Debug\TelerikExport.xml
+C:\Users\Acer\Desktop\YP NotePad\bin\Debug\ThemeViewer.exe.config
+C:\Users\Acer\Desktop\YP NotePad\bin\Debug\VisualStyleBuilder.exe.config
+C:\Users\Acer\Desktop\YP NotePad\bin\Debug\Telerik.WinControls.PivotGrid.xml
+C:\Users\Acer\Desktop\YP NotePad\bin\Debug\Telerik.WinControls.GridView.xml
+C:\Users\Acer\Desktop\YP NotePad\bin\Debug\Telerik.WinControls.RadChart.xml
+C:\Users\Acer\Desktop\YP NotePad\bin\Debug\Telerik.WinControls.RadDock.xml
+C:\Users\Acer\Desktop\YP NotePad\bin\Debug\Telerik.WinControls.RadMarkupEditor.xml
+C:\Users\Acer\Desktop\YP NotePad\bin\Debug\Telerik.WinControls.RadDiagram.xml
+C:\Users\Acer\Desktop\YP NotePad\bin\Debug\Telerik.WinControls.PdfViewer.xml
+C:\Users\Acer\Desktop\YP NotePad\bin\Debug\Telerik.WinControls.ChartView.xml
+C:\Users\Acer\Desktop\YP NotePad\bin\Debug\Telerik.WinControls.Scheduler.xml
+C:\Users\Acer\Desktop\YP NotePad\bin\Debug\Telerik.WinControls.RadMap.xml
+C:\Users\Acer\Desktop\YP NotePad\bin\Debug\Telerik.WinControls.RadSpreadsheet.xml
+C:\Users\Acer\Desktop\YP NotePad\bin\Debug\Telerik.WinControls.RadSpreadsheet.dll.config
+C:\Users\Acer\Desktop\YP NotePad\bin\Debug\Telerik.Documents.SpreadsheetStreaming.xml
+C:\Users\Acer\Desktop\YP NotePad\obj\Debug\YP NotePad.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\YP NotePad\obj\Debug\YP NotePad.csproj.SuggestedBindingRedirects.cache
+C:\Users\Acer\Desktop\YP NotePad\obj\Debug\note_pad_yp.helpFrm.resources
+C:\Users\Acer\Desktop\YP NotePad\obj\Debug\YP_NotePad.aboutFrm.resources
+C:\Users\Acer\Desktop\YP NotePad\obj\Debug\YP_NotePad.notePad.resources
+C:\Users\Acer\Desktop\YP NotePad\obj\Debug\YP_NotePad.Properties.Resources.resources
+C:\Users\Acer\Desktop\YP NotePad\obj\Debug\YP NotePad.csproj.GenerateResource.cache
+C:\Users\Acer\Desktop\YP NotePad\obj\Debug\YP NotePad.exe.licenses
+C:\Users\Acer\Desktop\YP NotePad\obj\Debug\YP NotePad.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\YP NotePad\obj\Debug\YP NotePad.TrustInfo.xml
+C:\Users\Acer\Desktop\YP NotePad\obj\Debug\YP NotePad.exe.manifest
+C:\Users\Acer\Desktop\YP NotePad\obj\Debug\YP NotePad.application
+C:\Users\Acer\Desktop\YP NotePad\obj\Debug\YP NotePad.csproj.CopyComplete
+C:\Users\Acer\Desktop\YP NotePad\obj\Debug\YP NotePad.exe
+C:\Users\Acer\Desktop\YP NotePad\obj\Debug\YP NotePad.pdb

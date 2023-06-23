@@ -1,0 +1,191 @@
+c:\users\alireza\documents\visual studio 2015\Projects\note pad yp\note pad yp\bin\Debug\note pad yp.exe.config
+c:\users\alireza\documents\visual studio 2015\Projects\note pad yp\note pad yp\bin\Debug\note pad yp.exe
+c:\users\alireza\documents\visual studio 2015\Projects\note pad yp\note pad yp\bin\Debug\note pad yp.pdb
+c:\users\alireza\documents\visual studio 2015\Projects\note pad yp\note pad yp\obj\Debug\note pad yp.csprojResolveAssemblyReference.cache
+c:\users\alireza\documents\visual studio 2015\Projects\note pad yp\note pad yp\obj\Debug\note_pad_yp.Form1.resources
+c:\users\alireza\documents\visual studio 2015\Projects\note pad yp\note pad yp\obj\Debug\note_pad_yp.Properties.Resources.resources
+c:\users\alireza\documents\visual studio 2015\Projects\note pad yp\note pad yp\obj\Debug\note pad yp.csproj.GenerateResource.Cache
+c:\users\alireza\documents\visual studio 2015\Projects\note pad yp\note pad yp\obj\Debug\note pad yp.exe
+c:\users\alireza\documents\visual studio 2015\Projects\note pad yp\note pad yp\obj\Debug\note pad yp.pdb
+C:\Users\alireza\Desktop\note pad yp\note pad yp\bin\Debug\note pad yp.exe.config
+C:\Users\alireza\Desktop\note pad yp\note pad yp\obj\Debug\note pad yp.exe
+C:\Users\alireza\Desktop\note pad yp\note pad yp\obj\Debug\note pad yp.pdb
+C:\Users\alireza\Desktop\note pad yp\note pad yp\bin\Debug\note pad yp.exe
+C:\Users\alireza\Desktop\note pad yp\note pad yp\bin\Debug\note pad yp.pdb
+C:\Users\alireza\Desktop\note pad yp\note pad yp\obj\Debug\note pad yp.csprojResolveAssemblyReference.cache
+C:\Users\alireza\Desktop\note pad yp\note pad yp\obj\Debug\note_pad_yp.Form1.resources
+C:\Users\alireza\Desktop\note pad yp\note pad yp\obj\Debug\note_pad_yp.Properties.Resources.resources
+C:\Users\alireza\Desktop\note pad yp\note pad yp\obj\Debug\note pad yp.csproj.GenerateResource.Cache
+C:\Users\alireza\Desktop\note pad yp\note pad yp\bin\Debug\MetroFramework.Design.dll
+C:\Users\alireza\Desktop\note pad yp\note pad yp\bin\Debug\MetroFramework.dll
+C:\Users\alireza\Desktop\note pad yp\note pad yp\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\alireza\Desktop\yp-project\note pad yp\note pad yp\bin\Debug\note pad yp.exe.config
+C:\Users\alireza\Desktop\yp-project\note pad yp\note pad yp\obj\Debug\note pad yp.exe
+C:\Users\alireza\Desktop\yp-project\note pad yp\note pad yp\obj\Debug\note pad yp.pdb
+C:\Users\alireza\Desktop\yp-project\note pad yp\note pad yp\bin\Debug\note pad yp.exe
+C:\Users\alireza\Desktop\yp-project\note pad yp\note pad yp\bin\Debug\MetroFramework.Design.dll
+C:\Users\alireza\Desktop\yp-project\note pad yp\note pad yp\bin\Debug\MetroFramework.dll
+C:\Users\alireza\Desktop\yp-project\note pad yp\note pad yp\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\alireza\Desktop\yp-project\note pad yp\note pad yp\obj\Debug\note pad yp.csprojResolveAssemblyReference.cache
+C:\Users\alireza\Desktop\yp-project\note pad yp\note pad yp\obj\Debug\note_pad_yp.Form1.resources
+C:\Users\alireza\Desktop\yp-project\note pad yp\note pad yp\obj\Debug\note_pad_yp.Properties.Resources.resources
+C:\Users\alireza\Desktop\yp-project\note pad yp\note pad yp\obj\Debug\note pad yp.csproj.GenerateResource.Cache
+C:\Users\alireza\Desktop\yp-project\note pad yp\note pad yp\bin\Debug\note pad yp.pdb
+E:\yp-p\Yp NotePad\note pad yp\bin\Debug\note pad yp.exe.config
+E:\yp-p\Yp NotePad\note pad yp\obj\Debug\note pad yp.exe
+E:\yp-p\Yp NotePad\note pad yp\obj\Debug\note pad yp.pdb
+E:\yp-p\Yp NotePad\note pad yp\bin\Debug\note pad yp.exe
+E:\yp-p\Yp NotePad\note pad yp\bin\Debug\MetroFramework.Design.dll
+E:\yp-p\Yp NotePad\note pad yp\bin\Debug\MetroFramework.dll
+E:\yp-p\Yp NotePad\note pad yp\bin\Debug\MetroFramework.Fonts.dll
+E:\yp-p\Yp NotePad\note pad yp\obj\Debug\note pad yp.csprojResolveAssemblyReference.cache
+E:\yp-p\Yp NotePad\note pad yp\obj\Debug\note_pad_yp.Form1.resources
+E:\yp-p\Yp NotePad\note pad yp\obj\Debug\note_pad_yp.Properties.Resources.resources
+E:\yp-p\Yp NotePad\note pad yp\obj\Debug\note pad yp.csproj.GenerateResource.Cache
+E:\yp-p\Yp NotePad\note pad yp\bin\Debug\note pad yp.pdb
+C:\Users\alireza\Desktop\Yp-Projects\Yp NotePad\note pad yp\bin\Debug\note pad yp.exe.config
+C:\Users\alireza\Desktop\Yp-Projects\Yp NotePad\note pad yp\obj\Debug\note pad yp.exe
+C:\Users\alireza\Desktop\Yp-Projects\Yp NotePad\note pad yp\obj\Debug\note pad yp.pdb
+C:\Users\alireza\Desktop\Yp-Projects\Yp NotePad\note pad yp\bin\Debug\note pad yp.exe
+C:\Users\alireza\Desktop\Yp-Projects\Yp NotePad\note pad yp\bin\Debug\note pad yp.pdb
+C:\Users\alireza\Desktop\Yp-Projects\Yp NotePad\note pad yp\bin\Debug\MetroFramework.Design.dll
+C:\Users\alireza\Desktop\Yp-Projects\Yp NotePad\note pad yp\bin\Debug\MetroFramework.dll
+C:\Users\alireza\Desktop\Yp-Projects\Yp NotePad\note pad yp\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\alireza\Desktop\Yp-Projects\Yp NotePad\note pad yp\obj\Debug\note pad yp.csprojResolveAssemblyReference.cache
+C:\Users\alireza\Desktop\Yp-Projects\Yp NotePad\note pad yp\obj\Debug\note_pad_yp.Form1.resources
+C:\Users\alireza\Desktop\Yp-Projects\Yp NotePad\note pad yp\obj\Debug\note_pad_yp.Properties.Resources.resources
+C:\Users\alireza\Desktop\Yp-Projects\Yp NotePad\note pad yp\obj\Debug\note pad yp.csproj.GenerateResource.Cache
+C:\Users\alireza\Desktop\YP\Yp-Projects\Yp NotePad\note pad yp\bin\Debug\note pad yp.exe.config
+C:\Users\alireza\Desktop\YP\Yp-Projects\Yp NotePad\note pad yp\obj\Debug\note pad yp.exe
+C:\Users\alireza\Desktop\YP\Yp-Projects\Yp NotePad\note pad yp\obj\Debug\note pad yp.pdb
+C:\Users\alireza\Desktop\YP\Yp-Projects\Yp NotePad\note pad yp\bin\Debug\note pad yp.exe
+C:\Users\alireza\Desktop\YP\Yp-Projects\Yp NotePad\note pad yp\bin\Debug\note pad yp.pdb
+C:\Users\alireza\Desktop\YP\Yp-Projects\Yp NotePad\note pad yp\bin\Debug\MetroFramework.Design.dll
+C:\Users\alireza\Desktop\YP\Yp-Projects\Yp NotePad\note pad yp\bin\Debug\MetroFramework.dll
+C:\Users\alireza\Desktop\YP\Yp-Projects\Yp NotePad\note pad yp\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\alireza\Desktop\YP\Yp-Projects\Yp NotePad\note pad yp\obj\Debug\note pad yp.csprojResolveAssemblyReference.cache
+C:\Users\alireza\Desktop\YP\Yp-Projects\Yp NotePad\note pad yp\obj\Debug\note_pad_yp.Form1.resources
+C:\Users\alireza\Desktop\YP\Yp-Projects\Yp NotePad\note pad yp\obj\Debug\note_pad_yp.Properties.Resources.resources
+C:\Users\alireza\Desktop\YP\Yp-Projects\Yp NotePad\note pad yp\obj\Debug\note pad yp.csproj.GenerateResource.Cache
+C:\Users\alireza\Desktop\YP\Yp-Projects\Yp NotePad\note pad yp\obj\Debug\note_pad_yp.Form2.resources
+E:\YP\Yp-Projects\Yp NotePad\note pad yp\bin\Debug\note pad yp.exe.config
+E:\YP\Yp-Projects\Yp NotePad\note pad yp\obj\Debug\note pad yp.exe
+E:\YP\Yp-Projects\Yp NotePad\note pad yp\obj\Debug\note pad yp.pdb
+E:\YP\Yp-Projects\Yp NotePad\note pad yp\bin\Debug\note pad yp.exe
+E:\YP\Yp-Projects\Yp NotePad\note pad yp\bin\Debug\note pad yp.pdb
+E:\YP\Yp-Projects\Yp NotePad\note pad yp\bin\Debug\MetroFramework.Design.dll
+E:\YP\Yp-Projects\Yp NotePad\note pad yp\bin\Debug\MetroFramework.dll
+E:\YP\Yp-Projects\Yp NotePad\note pad yp\bin\Debug\MetroFramework.Fonts.dll
+E:\YP\Yp-Projects\Yp NotePad\note pad yp\obj\Debug\note pad yp.csprojResolveAssemblyReference.cache
+E:\YP\Yp-Projects\Yp NotePad\note pad yp\obj\Debug\note_pad_yp.Form1.resources
+E:\YP\Yp-Projects\Yp NotePad\note pad yp\obj\Debug\note_pad_yp.Form2.resources
+E:\YP\Yp-Projects\Yp NotePad\note pad yp\obj\Debug\note_pad_yp.Properties.Resources.resources
+E:\YP\Yp-Projects\Yp NotePad\note pad yp\obj\Debug\note pad yp.csproj.GenerateResource.Cache
+C:\Users\alireza\Desktop\YP\Yp-Projects\Yp NotePad-latest version\note pad yp\bin\Debug\note pad yp.exe.config
+C:\Users\alireza\Desktop\YP\Yp-Projects\Yp NotePad-latest version\note pad yp\obj\Debug\note pad yp.exe
+C:\Users\alireza\Desktop\YP\Yp-Projects\Yp NotePad-latest version\note pad yp\obj\Debug\note pad yp.pdb
+C:\Users\alireza\Desktop\YP\Yp-Projects\Yp NotePad-latest version\note pad yp\bin\Debug\note pad yp.exe
+C:\Users\alireza\Desktop\YP\Yp-Projects\Yp NotePad-latest version\note pad yp\bin\Debug\note pad yp.pdb
+C:\Users\alireza\Desktop\YP\Yp-Projects\Yp NotePad-latest version\note pad yp\bin\Debug\MetroFramework.Design.dll
+C:\Users\alireza\Desktop\YP\Yp-Projects\Yp NotePad-latest version\note pad yp\bin\Debug\MetroFramework.dll
+C:\Users\alireza\Desktop\YP\Yp-Projects\Yp NotePad-latest version\note pad yp\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\alireza\Desktop\YP\Yp-Projects\Yp NotePad-latest version\note pad yp\obj\Debug\note pad yp.csprojResolveAssemblyReference.cache
+C:\Users\alireza\Desktop\YP\Yp-Projects\Yp NotePad-latest version\note pad yp\obj\Debug\note_pad_yp.Form1.resources
+C:\Users\alireza\Desktop\YP\Yp-Projects\Yp NotePad-latest version\note pad yp\obj\Debug\note_pad_yp.Form2.resources
+C:\Users\alireza\Desktop\YP\Yp-Projects\Yp NotePad-latest version\note pad yp\obj\Debug\note_pad_yp.Properties.Resources.resources
+C:\Users\alireza\Desktop\YP\Yp-Projects\Yp NotePad-latest version\note pad yp\obj\Debug\note pad yp.csproj.GenerateResource.Cache
+C:\Users\alireza\Desktop\YP-build 218.1\Yp-Projects\Yp NotePad-latest version\note pad yp\bin\Debug\note pad yp.exe.config
+C:\Users\alireza\Desktop\YP-build 218.1\Yp-Projects\Yp NotePad-latest version\note pad yp\obj\Debug\note pad yp.exe
+C:\Users\alireza\Desktop\YP-build 218.1\Yp-Projects\Yp NotePad-latest version\note pad yp\obj\Debug\note pad yp.pdb
+C:\Users\alireza\Desktop\YP-build 218.1\Yp-Projects\Yp NotePad-latest version\note pad yp\bin\Debug\note pad yp.exe
+C:\Users\alireza\Desktop\YP-build 218.1\Yp-Projects\Yp NotePad-latest version\note pad yp\bin\Debug\note pad yp.pdb
+C:\Users\alireza\Desktop\YP-build 218.1\Yp-Projects\Yp NotePad-latest version\note pad yp\bin\Debug\MetroFramework.Design.dll
+C:\Users\alireza\Desktop\YP-build 218.1\Yp-Projects\Yp NotePad-latest version\note pad yp\bin\Debug\MetroFramework.dll
+C:\Users\alireza\Desktop\YP-build 218.1\Yp-Projects\Yp NotePad-latest version\note pad yp\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\alireza\Desktop\YP-build 218.1\Yp-Projects\Yp NotePad-latest version\note pad yp\obj\Debug\note pad yp.csprojResolveAssemblyReference.cache
+C:\Users\alireza\Desktop\YP-build 218.1\Yp-Projects\Yp NotePad-latest version\note pad yp\obj\Debug\note_pad_yp.Form1.resources
+C:\Users\alireza\Desktop\YP-build 218.1\Yp-Projects\Yp NotePad-latest version\note pad yp\obj\Debug\note_pad_yp.Form2.resources
+C:\Users\alireza\Desktop\YP-build 218.1\Yp-Projects\Yp NotePad-latest version\note pad yp\obj\Debug\note_pad_yp.Properties.Resources.resources
+C:\Users\alireza\Desktop\YP-build 218.1\Yp-Projects\Yp NotePad-latest version\note pad yp\obj\Debug\note pad yp.csproj.GenerateResource.Cache
+E:\YP-buid 218.7\Yp-Projects\Yp NotePad-latest version\note pad yp\bin\Debug\note pad yp.exe.config
+E:\YP-buid 218.7\Yp-Projects\Yp NotePad-latest version\note pad yp\obj\Debug\note pad yp.exe
+E:\YP-buid 218.7\Yp-Projects\Yp NotePad-latest version\note pad yp\obj\Debug\note pad yp.pdb
+E:\YP-buid 218.7\Yp-Projects\Yp NotePad-latest version\note pad yp\bin\Debug\note pad yp.exe
+E:\YP-buid 218.7\Yp-Projects\Yp NotePad-latest version\note pad yp\bin\Debug\note pad yp.pdb
+E:\YP-buid 218.7\Yp-Projects\Yp NotePad-latest version\note pad yp\bin\Debug\MetroFramework.Design.dll
+E:\YP-buid 218.7\Yp-Projects\Yp NotePad-latest version\note pad yp\bin\Debug\MetroFramework.dll
+E:\YP-buid 218.7\Yp-Projects\Yp NotePad-latest version\note pad yp\bin\Debug\MetroFramework.Fonts.dll
+E:\YP-buid 218.7\Yp-Projects\Yp NotePad-latest version\note pad yp\obj\Debug\note pad yp.csprojResolveAssemblyReference.cache
+E:\YP-buid 218.7\Yp-Projects\Yp NotePad-latest version\note pad yp\obj\Debug\note_pad_yp.Form1.resources
+E:\YP-buid 218.7\Yp-Projects\Yp NotePad-latest version\note pad yp\obj\Debug\note_pad_yp.Form2.resources
+E:\YP-buid 218.7\Yp-Projects\Yp NotePad-latest version\note pad yp\obj\Debug\note_pad_yp.Properties.Resources.resources
+E:\YP-buid 218.7\Yp-Projects\Yp NotePad-latest version\note pad yp\obj\Debug\note pad yp.csproj.GenerateResource.Cache
+E:\YP\YP-buid 218.9\Yp-Projects\Yp NotePad-latest version\note pad yp\bin\Debug\note pad yp.exe.config
+E:\YP\YP-buid 218.9\Yp-Projects\Yp NotePad-latest version\note pad yp\obj\Debug\note pad yp.exe
+E:\YP\YP-buid 218.9\Yp-Projects\Yp NotePad-latest version\note pad yp\obj\Debug\note pad yp.pdb
+E:\YP\YP-buid 218.9\Yp-Projects\Yp NotePad-latest version\note pad yp\bin\Debug\note pad yp.exe
+E:\YP\YP-buid 218.9\Yp-Projects\Yp NotePad-latest version\note pad yp\bin\Debug\note pad yp.pdb
+E:\YP\YP-buid 218.9\Yp-Projects\Yp NotePad-latest version\note pad yp\bin\Debug\MetroFramework.Design.dll
+E:\YP\YP-buid 218.9\Yp-Projects\Yp NotePad-latest version\note pad yp\bin\Debug\MetroFramework.dll
+E:\YP\YP-buid 218.9\Yp-Projects\Yp NotePad-latest version\note pad yp\bin\Debug\MetroFramework.Fonts.dll
+E:\YP\YP-buid 218.9\Yp-Projects\Yp NotePad-latest version\note pad yp\obj\Debug\note pad yp.csprojResolveAssemblyReference.cache
+E:\YP\YP-buid 218.9\Yp-Projects\Yp NotePad-latest version\note pad yp\obj\Debug\note_pad_yp.Properties.Resources.resources
+E:\YP\YP-buid 218.9\Yp-Projects\Yp NotePad-latest version\note pad yp\obj\Debug\note pad yp.csproj.GenerateResource.Cache
+E:\YP\YP-buid 218.9\Yp-Projects\Yp NotePad-latest version\note pad yp\obj\Debug\note_pad_yp.Form2.resources
+E:\YP\YP-buid 218.9\Yp-Projects\Yp NotePad-latest version\note pad yp\obj\Debug\notepadyp.about.resources
+E:\YP\YP-buid 219.1\Yp-Projects\Yp NotePad-latest version\note pad yp\bin\Debug\note pad yp.exe.config
+E:\YP\YP-buid 219.1\Yp-Projects\Yp NotePad-latest version\note pad yp\obj\Debug\note pad yp.exe
+E:\YP\YP-buid 219.1\Yp-Projects\Yp NotePad-latest version\note pad yp\obj\Debug\note pad yp.pdb
+E:\YP\YP-buid 219.1\Yp-Projects\Yp NotePad-latest version\note pad yp\bin\Debug\note pad yp.exe
+E:\YP\YP-buid 219.1\Yp-Projects\Yp NotePad-latest version\note pad yp\bin\Debug\note pad yp.pdb
+E:\YP\YP-buid 219.1\Yp-Projects\Yp NotePad-latest version\note pad yp\bin\Debug\MetroFramework.Design.dll
+E:\YP\YP-buid 219.1\Yp-Projects\Yp NotePad-latest version\note pad yp\bin\Debug\MetroFramework.dll
+E:\YP\YP-buid 219.1\Yp-Projects\Yp NotePad-latest version\note pad yp\bin\Debug\MetroFramework.Fonts.dll
+E:\YP\YP-buid 219.1\Yp-Projects\Yp NotePad-latest version\note pad yp\obj\Debug\note pad yp.csprojResolveAssemblyReference.cache
+E:\YP\YP-buid 219.1\Yp-Projects\Yp NotePad-latest version\note pad yp\obj\Debug\notepadyp.about.resources
+E:\YP\YP-buid 219.1\Yp-Projects\Yp NotePad-latest version\note pad yp\obj\Debug\note_pad_yp.Form2.resources
+E:\YP\YP-buid 219.1\Yp-Projects\Yp NotePad-latest version\note pad yp\obj\Debug\note_pad_yp.Properties.Resources.resources
+E:\YP\YP-buid 219.1\Yp-Projects\Yp NotePad-latest version\note pad yp\obj\Debug\note pad yp.csproj.GenerateResource.Cache
+E:\YP\YP-buid 219.1\Yp-Projects\Yp NotePad-latest version\note pad yp\obj\Debug\note_pad_yp.Form1.resources
+E:\YP-data MEDIA\YP\YP-buid 219.2\Yp-Projects\Yp NotePad-latest version\note pad yp\bin\Debug\note pad yp.exe.config
+E:\YP-data MEDIA\YP\YP-buid 219.2\Yp-Projects\Yp NotePad-latest version\note pad yp\obj\Debug\note pad yp.exe
+E:\YP-data MEDIA\YP\YP-buid 219.2\Yp-Projects\Yp NotePad-latest version\note pad yp\obj\Debug\note pad yp.pdb
+E:\YP-data MEDIA\YP\YP-buid 219.2\Yp-Projects\Yp NotePad-latest version\note pad yp\bin\Debug\note pad yp.exe
+E:\YP-data MEDIA\YP\YP-buid 219.2\Yp-Projects\Yp NotePad-latest version\note pad yp\bin\Debug\note pad yp.pdb
+E:\YP-data MEDIA\YP\YP-buid 219.2\Yp-Projects\Yp NotePad-latest version\note pad yp\bin\Debug\MetroFramework.Design.dll
+E:\YP-data MEDIA\YP\YP-buid 219.2\Yp-Projects\Yp NotePad-latest version\note pad yp\bin\Debug\MetroFramework.dll
+E:\YP-data MEDIA\YP\YP-buid 219.2\Yp-Projects\Yp NotePad-latest version\note pad yp\bin\Debug\MetroFramework.Fonts.dll
+E:\YP-data MEDIA\YP\YP-buid 219.2\Yp-Projects\Yp NotePad-latest version\note pad yp\obj\Debug\note pad yp.csprojResolveAssemblyReference.cache
+E:\YP-data MEDIA\YP\YP-buid 219.2\Yp-Projects\Yp NotePad-latest version\note pad yp\obj\Debug\notepadyp.about.resources
+E:\YP-data MEDIA\YP\YP-buid 219.2\Yp-Projects\Yp NotePad-latest version\note pad yp\obj\Debug\note_pad_yp.Form1.resources
+E:\YP-data MEDIA\YP\YP-buid 219.2\Yp-Projects\Yp NotePad-latest version\note pad yp\obj\Debug\note_pad_yp.Form2.resources
+E:\YP-data MEDIA\YP\YP-buid 219.2\Yp-Projects\Yp NotePad-latest version\note pad yp\obj\Debug\note_pad_yp.Properties.Resources.resources
+E:\YP-data MEDIA\YP\YP-buid 219.2\Yp-Projects\Yp NotePad-latest version\note pad yp\obj\Debug\note pad yp.csproj.GenerateResource.Cache
+C:\Users\Alireza\Desktop\YP\YP-buid 219.3\Yp-Projects\Yp NotePad-latest version\note pad yp\bin\Debug\note pad yp.exe.config
+C:\Users\Alireza\Desktop\YP\YP-buid 219.3\Yp-Projects\Yp NotePad-latest version\note pad yp\obj\Debug\note pad yp.exe
+C:\Users\Alireza\Desktop\YP\YP-buid 219.3\Yp-Projects\Yp NotePad-latest version\note pad yp\obj\Debug\note pad yp.pdb
+C:\Users\Alireza\Desktop\YP\YP-buid 219.3\Yp-Projects\Yp NotePad-latest version\note pad yp\bin\Debug\note pad yp.exe
+C:\Users\Alireza\Desktop\YP\YP-buid 219.3\Yp-Projects\Yp NotePad-latest version\note pad yp\bin\Debug\note pad yp.pdb
+C:\Users\Alireza\Desktop\YP\YP-buid 219.3\Yp-Projects\Yp NotePad-latest version\note pad yp\bin\Debug\MetroFramework.Design.dll
+C:\Users\Alireza\Desktop\YP\YP-buid 219.3\Yp-Projects\Yp NotePad-latest version\note pad yp\bin\Debug\MetroFramework.dll
+C:\Users\Alireza\Desktop\YP\YP-buid 219.3\Yp-Projects\Yp NotePad-latest version\note pad yp\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Alireza\Desktop\YP\YP-buid 219.3\Yp-Projects\Yp NotePad-latest version\note pad yp\obj\Debug\note pad yp.csprojResolveAssemblyReference.cache
+C:\Users\Alireza\Desktop\YP\YP-buid 219.3\Yp-Projects\Yp NotePad-latest version\note pad yp\obj\Debug\notepadyp.about.resources
+C:\Users\Alireza\Desktop\YP\YP-buid 219.3\Yp-Projects\Yp NotePad-latest version\note pad yp\obj\Debug\note_pad_yp.Form1.resources
+C:\Users\Alireza\Desktop\YP\YP-buid 219.3\Yp-Projects\Yp NotePad-latest version\note pad yp\obj\Debug\note_pad_yp.Properties.Resources.resources
+C:\Users\Alireza\Desktop\YP\YP-buid 219.3\Yp-Projects\Yp NotePad-latest version\note pad yp\obj\Debug\note pad yp.csproj.GenerateResource.Cache
+C:\Users\Alireza\Desktop\YP\YP-buid 219.3\Yp-Projects\Yp NotePad-latest version\note pad yp\obj\Debug\note_pad_yp.YPNotePad001.resources
+C:\Users\Alireza\Desktop\YP\YP-buid 219.3\Yp-Projects\Yp NotePad-latest version-metro\note pad yp\bin\Debug\note pad yp.exe.config
+C:\Users\Alireza\Desktop\YP\YP-buid 219.3\Yp-Projects\Yp NotePad-latest version-metro\note pad yp\obj\Debug\note pad yp.exe
+C:\Users\Alireza\Desktop\YP\YP-buid 219.3\Yp-Projects\Yp NotePad-latest version-metro\note pad yp\obj\Debug\note pad yp.pdb
+C:\Users\Alireza\Desktop\YP\YP-buid 219.3\Yp-Projects\Yp NotePad-latest version-metro\note pad yp\bin\Debug\note pad yp.exe
+C:\Users\Alireza\Desktop\YP\YP-buid 219.3\Yp-Projects\Yp NotePad-latest version-metro\note pad yp\bin\Debug\note pad yp.pdb
+C:\Users\Alireza\Desktop\YP\YP-buid 219.3\Yp-Projects\Yp NotePad-latest version-metro\note pad yp\bin\Debug\MetroFramework.Design.dll
+C:\Users\Alireza\Desktop\YP\YP-buid 219.3\Yp-Projects\Yp NotePad-latest version-metro\note pad yp\bin\Debug\MetroFramework.dll
+C:\Users\Alireza\Desktop\YP\YP-buid 219.3\Yp-Projects\Yp NotePad-latest version-metro\note pad yp\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Alireza\Desktop\YP\YP-buid 219.3\Yp-Projects\Yp NotePad-latest version-metro\note pad yp\obj\Debug\note pad yp.csprojResolveAssemblyReference.cache
+C:\Users\Alireza\Desktop\YP\YP-buid 219.3\Yp-Projects\Yp NotePad-latest version-metro\note pad yp\obj\Debug\notepadyp.about.resources
+C:\Users\Alireza\Desktop\YP\YP-buid 219.3\Yp-Projects\Yp NotePad-latest version-metro\note pad yp\obj\Debug\note_pad_yp.Form1.resources
+C:\Users\Alireza\Desktop\YP\YP-buid 219.3\Yp-Projects\Yp NotePad-latest version-metro\note pad yp\obj\Debug\note_pad_yp.YPNotePad001.resources
+C:\Users\Alireza\Desktop\YP\YP-buid 219.3\Yp-Projects\Yp NotePad-latest version-metro\note pad yp\obj\Debug\note_pad_yp.Properties.Resources.resources
+C:\Users\Alireza\Desktop\YP\YP-buid 219.3\Yp-Projects\Yp NotePad-latest version-metro\note pad yp\obj\Debug\note pad yp.csproj.GenerateResource.Cache

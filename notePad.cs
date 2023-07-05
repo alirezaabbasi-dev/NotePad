@@ -1,11 +1,6 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.ComponentModel;
-using System.Data;
 using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 using note_pad_yp;
 using MetroFramework;
@@ -450,10 +445,6 @@ namespace YP_NotePad
             about.ShowDialog();
         }
 
-        private void panelSave_Paint(object sender, PaintEventArgs e)
-        {
-
-        }
     }
 }
 

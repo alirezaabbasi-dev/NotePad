@@ -90,7 +90,7 @@
     <Prefer32Bit>true</Prefer32Bit>
   </PropertyGroup>
   <PropertyGroup>
-    <ApplicationIcon>icons8-spiral-bound-booklet-96.ico</ApplicationIcon>
+    <ApplicationIcon>NotePad.ico</ApplicationIcon>
   </PropertyGroup>
   <PropertyGroup>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -296,6 +296,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="icons8-spiral-bound-booklet-96.ico" />
+    <Content Include="NotePad.ico" />
     <Content Include="nt.ico" />
     <None Include="Resources\icons8-plus-48.png" />
     <None Include="Resources\icons8-help-500.png" />

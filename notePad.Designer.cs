@@ -400,9 +400,9 @@
             // txtInput
             // 
             this.txtInput.BackColor = System.Drawing.Color.White;
-            this.txtInput.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.txtInput.BorderStyle = System.Windows.Forms.BorderStyle.None;
             this.txtInput.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.txtInput.Font = new System.Drawing.Font("Nirmala UI Semilight", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txtInput.Font = new System.Drawing.Font("Segoe UI", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtInput.ForeColor = System.Drawing.Color.Black;
             this.txtInput.Location = new System.Drawing.Point(0, 34);
             this.txtInput.Name = "txtInput";
@@ -491,7 +491,7 @@
             this.Controls.Add(this.txtInput);
             this.Controls.Add(this.radMenu1);
             this.Controls.Add(this.Menu);
-            this.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.Font = new System.Drawing.Font("Segoe UI", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.Fixed3D;
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.MainMenuStrip = this.Menu;
@@ -504,7 +504,6 @@
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "YP NotePad";
             this.ThemeName = "Crystal";
-            this.TransparencyKey = System.Drawing.Color.Olive;
             this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.Form2_FormClosing);
             this.Load += new System.EventHandler(this.notePad_Load);
             this.MouseClick += new System.Windows.Forms.MouseEventHandler(this.Form2_MouseClick);

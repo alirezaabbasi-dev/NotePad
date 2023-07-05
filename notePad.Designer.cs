@@ -56,38 +56,38 @@
             this.timermenu = new System.Windows.Forms.Timer(this.components);
             this.crystalTheme1 = new Telerik.WinControls.Themes.CrystalTheme();
             this.fluentTheme1 = new Telerik.WinControls.Themes.FluentTheme();
-            this.radMenuItem1 = new Telerik.WinControls.UI.RadMenuItem();
-            this.radMenuItem6 = new Telerik.WinControls.UI.RadMenuItem();
-            this.radMenuItem7 = new Telerik.WinControls.UI.RadMenuItem();
-            this.radMenuItem8 = new Telerik.WinControls.UI.RadMenuItem();
-            this.radMenuItem2 = new Telerik.WinControls.UI.RadMenuItem();
-            this.radMenuItem9 = new Telerik.WinControls.UI.RadMenuItem();
-            this.radMenuItem10 = new Telerik.WinControls.UI.RadMenuItem();
-            this.radMenuItem11 = new Telerik.WinControls.UI.RadMenuItem();
-            this.radMenuItem12 = new Telerik.WinControls.UI.RadMenuItem();
-            this.radMenuItem13 = new Telerik.WinControls.UI.RadMenuItem();
-            this.radMenuItem14 = new Telerik.WinControls.UI.RadMenuItem();
-            this.radMenuItem3 = new Telerik.WinControls.UI.RadMenuItem();
-            this.radMenuItem15 = new Telerik.WinControls.UI.RadMenuItem();
-            this.radMenuItem4 = new Telerik.WinControls.UI.RadMenuItem();
-            this.radMenuItem16 = new Telerik.WinControls.UI.RadMenuItem();
+            this.fileMenuItem = new Telerik.WinControls.UI.RadMenuItem();
+            this.newMenuItem = new Telerik.WinControls.UI.RadMenuItem();
+            this.openMenuItem = new Telerik.WinControls.UI.RadMenuItem();
+            this.saveMenuItem = new Telerik.WinControls.UI.RadMenuItem();
+            this.editMenuItem = new Telerik.WinControls.UI.RadMenuItem();
+            this.undoMenuItem = new Telerik.WinControls.UI.RadMenuItem();
+            this.copyMenuItem = new Telerik.WinControls.UI.RadMenuItem();
+            this.cutMenuItem = new Telerik.WinControls.UI.RadMenuItem();
+            this.pasteMenuItem = new Telerik.WinControls.UI.RadMenuItem();
+            this.sellAllMenuItem = new Telerik.WinControls.UI.RadMenuItem();
+            this.timeMenuItem = new Telerik.WinControls.UI.RadMenuItem();
+            this.formatMenuItem = new Telerik.WinControls.UI.RadMenuItem();
+            this.fontMenuItem = new Telerik.WinControls.UI.RadMenuItem();
+            this.viewMenuItem = new Telerik.WinControls.UI.RadMenuItem();
+            this.textColorMenuItem = new Telerik.WinControls.UI.RadMenuItem();
             this.radMenuItem5 = new Telerik.WinControls.UI.RadMenuItem();
             this.aboutToolStripMenuItem = new Telerik.WinControls.UI.RadMenuItem();
-            this.helpToolStripMenuItem1 = new Telerik.WinControls.UI.RadMenuItem();
-            this.richTextBox1 = new System.Windows.Forms.RichTextBox();
+            this.helpToolStripMenuItem = new Telerik.WinControls.UI.RadMenuItem();
+            this.txtInput = new System.Windows.Forms.RichTextBox();
             this.radButton1 = new Telerik.WinControls.UI.RadButton();
             this.radButton2 = new Telerik.WinControls.UI.RadButton();
-            this.radButton3 = new Telerik.WinControls.UI.RadButton();
+            this.saveBtn = new Telerik.WinControls.UI.RadButton();
             this.radLabel1 = new Telerik.WinControls.UI.RadLabel();
-            this.panelabzar = new Telerik.WinControls.UI.RadPanel();
+            this.panelSave = new Telerik.WinControls.UI.RadPanel();
             this.radMenu1 = new Telerik.WinControls.UI.RadMenu();
             this.Menu.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.radButton1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.radButton2)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.radButton3)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.saveBtn)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.radLabel1)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.panelabzar)).BeginInit();
-            this.panelabzar.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.panelSave)).BeginInit();
+            this.panelSave.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.radMenu1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this)).BeginInit();
             this.SuspendLayout();
@@ -247,137 +247,137 @@
             this.timermenu.Enabled = true;
             this.timermenu.Tick += new System.EventHandler(this.timermenu_Tick);
             // 
-            // radMenuItem1
+            // fileMenuItem
             // 
-            this.radMenuItem1.Items.AddRange(new Telerik.WinControls.RadItem[] {
-            this.radMenuItem6,
-            this.radMenuItem7,
-            this.radMenuItem8});
-            this.radMenuItem1.Name = "radMenuItem1";
-            this.radMenuItem1.Text = "File";
+            this.fileMenuItem.Items.AddRange(new Telerik.WinControls.RadItem[] {
+            this.newMenuItem,
+            this.openMenuItem,
+            this.saveMenuItem});
+            this.fileMenuItem.Name = "fileMenuItem";
+            this.fileMenuItem.Text = "File";
             // 
-            // radMenuItem6
+            // newMenuItem
             // 
-            this.radMenuItem6.Image = global::YP_NotePad.Properties.Resources.icons8_plus_48;
-            this.radMenuItem6.Name = "radMenuItem6";
-            this.radMenuItem6.ShowArrow = true;
-            this.radMenuItem6.Text = "New";
-            this.radMenuItem6.ToolTipText = "New (Ctrl+N)";
-            this.radMenuItem6.Click += new System.EventHandler(this.newToolStripMenuItem_Click);
+            this.newMenuItem.Image = global::YP_NotePad.Properties.Resources.icons8_plus_48;
+            this.newMenuItem.Name = "newMenuItem";
+            this.newMenuItem.ShowArrow = true;
+            this.newMenuItem.Text = "New";
+            this.newMenuItem.ToolTipText = "New (Ctrl+N)";
+            this.newMenuItem.Click += new System.EventHandler(this.newToolStripMenuItem_Click);
             // 
-            // radMenuItem7
+            // openMenuItem
             // 
-            this.radMenuItem7.Image = global::YP_NotePad.Properties.Resources.icons8_open_in_popup_96;
-            this.radMenuItem7.Name = "radMenuItem7";
-            this.radMenuItem7.Text = "Open";
-            this.radMenuItem7.ToolTipText = "Open (Ctrl+O)";
-            this.radMenuItem7.Click += new System.EventHandler(this.openToolStripMenuItem_Click);
+            this.openMenuItem.Image = global::YP_NotePad.Properties.Resources.icons8_open_in_popup_96;
+            this.openMenuItem.Name = "openMenuItem";
+            this.openMenuItem.Text = "Open";
+            this.openMenuItem.ToolTipText = "Open (Ctrl+O)";
+            this.openMenuItem.Click += new System.EventHandler(this.openToolStripMenuItem_Click);
             // 
-            // radMenuItem8
+            // saveMenuItem
             // 
-            this.radMenuItem8.Image = global::YP_NotePad.Properties.Resources.icons8_save_all_96;
-            this.radMenuItem8.Name = "radMenuItem8";
-            this.radMenuItem8.Text = "Save";
-            this.radMenuItem8.ToolTipText = "Save (Ctrl+S)";
-            this.radMenuItem8.Click += new System.EventHandler(this.saveToolStripMenuItem_Click);
+            this.saveMenuItem.Image = global::YP_NotePad.Properties.Resources.icons8_save_all_96;
+            this.saveMenuItem.Name = "saveMenuItem";
+            this.saveMenuItem.Text = "Save";
+            this.saveMenuItem.ToolTipText = "Save (Ctrl+S)";
+            this.saveMenuItem.Click += new System.EventHandler(this.saveToolStripMenuItem_Click);
             // 
-            // radMenuItem2
+            // editMenuItem
             // 
-            this.radMenuItem2.Items.AddRange(new Telerik.WinControls.RadItem[] {
-            this.radMenuItem9,
-            this.radMenuItem10,
-            this.radMenuItem11,
-            this.radMenuItem12,
-            this.radMenuItem13,
-            this.radMenuItem14});
-            this.radMenuItem2.Name = "radMenuItem2";
-            this.radMenuItem2.Text = "Edit";
+            this.editMenuItem.Items.AddRange(new Telerik.WinControls.RadItem[] {
+            this.undoMenuItem,
+            this.copyMenuItem,
+            this.cutMenuItem,
+            this.pasteMenuItem,
+            this.sellAllMenuItem,
+            this.timeMenuItem});
+            this.editMenuItem.Name = "editMenuItem";
+            this.editMenuItem.Text = "Edit";
             // 
-            // radMenuItem9
+            // undoMenuItem
             // 
-            this.radMenuItem9.Image = global::YP_NotePad.Properties.Resources.icons8_undo_96;
-            this.radMenuItem9.Name = "radMenuItem9";
-            this.radMenuItem9.Text = "undo";
-            this.radMenuItem9.TextAlignment = System.Drawing.ContentAlignment.MiddleCenter;
-            this.radMenuItem9.ToolTipText = "Undo (Ctrl+Z)";
-            this.radMenuItem9.Click += new System.EventHandler(this.undoToolStripMenuItem_Click);
+            this.undoMenuItem.Image = global::YP_NotePad.Properties.Resources.icons8_undo_96;
+            this.undoMenuItem.Name = "undoMenuItem";
+            this.undoMenuItem.Text = "undo";
+            this.undoMenuItem.TextAlignment = System.Drawing.ContentAlignment.MiddleCenter;
+            this.undoMenuItem.ToolTipText = "Undo (Ctrl+Z)";
+            this.undoMenuItem.Click += new System.EventHandler(this.undoToolStripMenuItem_Click);
             // 
-            // radMenuItem10
+            // copyMenuItem
             // 
-            this.radMenuItem10.Image = global::YP_NotePad.Properties.Resources.icons8_copy_961;
-            this.radMenuItem10.Name = "radMenuItem10";
-            this.radMenuItem10.Text = "copy";
-            this.radMenuItem10.ToolTipText = "Copy (Ctrl+C)";
-            this.radMenuItem10.Click += new System.EventHandler(this.copyToolStripMenuItem_Click);
+            this.copyMenuItem.Image = global::YP_NotePad.Properties.Resources.icons8_copy_961;
+            this.copyMenuItem.Name = "copyMenuItem";
+            this.copyMenuItem.Text = "copy";
+            this.copyMenuItem.ToolTipText = "Copy (Ctrl+C)";
+            this.copyMenuItem.Click += new System.EventHandler(this.copyToolStripMenuItem_Click);
             // 
-            // radMenuItem11
+            // cutMenuItem
             // 
-            this.radMenuItem11.Image = global::YP_NotePad.Properties.Resources.icons8_cut_96;
-            this.radMenuItem11.Name = "radMenuItem11";
-            this.radMenuItem11.Text = "cut";
-            this.radMenuItem11.ToolTipText = "Cut (Ctrl+X)";
-            this.radMenuItem11.Click += new System.EventHandler(this.cutmscript_Click);
+            this.cutMenuItem.Image = global::YP_NotePad.Properties.Resources.icons8_cut_96;
+            this.cutMenuItem.Name = "cutMenuItem";
+            this.cutMenuItem.Text = "cut";
+            this.cutMenuItem.ToolTipText = "Cut (Ctrl+X)";
+            this.cutMenuItem.Click += new System.EventHandler(this.cutmscript_Click);
             // 
-            // radMenuItem12
+            // pasteMenuItem
             // 
-            this.radMenuItem12.Image = global::YP_NotePad.Properties.Resources.icons8_paste_96;
-            this.radMenuItem12.Name = "radMenuItem12";
-            this.radMenuItem12.Text = "Paste";
-            this.radMenuItem12.ToolTipText = "Paste (Ctrl+V)";
-            this.radMenuItem12.Click += new System.EventHandler(this.pasteToolStripMenuItem_Click);
+            this.pasteMenuItem.Image = global::YP_NotePad.Properties.Resources.icons8_paste_96;
+            this.pasteMenuItem.Name = "pasteMenuItem";
+            this.pasteMenuItem.Text = "Paste";
+            this.pasteMenuItem.ToolTipText = "Paste (Ctrl+V)";
+            this.pasteMenuItem.Click += new System.EventHandler(this.pasteToolStripMenuItem_Click);
             // 
-            // radMenuItem13
+            // sellAllMenuItem
             // 
-            this.radMenuItem13.Image = global::YP_NotePad.Properties.Resources.icons8_select_all_96;
-            this.radMenuItem13.Name = "radMenuItem13";
-            this.radMenuItem13.Text = "Select All";
-            this.radMenuItem13.ToolTipText = "Select All (Ctrl+A)";
-            this.radMenuItem13.Click += new System.EventHandler(this.selectAllToolStripMenuItem_Click_1);
+            this.sellAllMenuItem.Image = global::YP_NotePad.Properties.Resources.icons8_select_all_96;
+            this.sellAllMenuItem.Name = "sellAllMenuItem";
+            this.sellAllMenuItem.Text = "Select All";
+            this.sellAllMenuItem.ToolTipText = "Select All (Ctrl+A)";
+            this.sellAllMenuItem.Click += new System.EventHandler(this.selectAllToolStripMenuItem_Click_1);
             // 
-            // radMenuItem14
+            // timeMenuItem
             // 
-            this.radMenuItem14.Image = global::YP_NotePad.Properties.Resources.icons8_day_view_96;
-            this.radMenuItem14.Name = "radMenuItem14";
-            this.radMenuItem14.Text = "Time/Date";
-            this.radMenuItem14.ToolTipText = "Time/Date (F5)";
-            this.radMenuItem14.Click += new System.EventHandler(this.timeDateToolStripMenuItem_Click_1);
+            this.timeMenuItem.Image = global::YP_NotePad.Properties.Resources.icons8_day_view_96;
+            this.timeMenuItem.Name = "timeMenuItem";
+            this.timeMenuItem.Text = "Time/Date";
+            this.timeMenuItem.ToolTipText = "Time/Date (F5)";
+            this.timeMenuItem.Click += new System.EventHandler(this.timeDateToolStripMenuItem_Click_1);
             // 
-            // radMenuItem3
+            // formatMenuItem
             // 
-            this.radMenuItem3.Items.AddRange(new Telerik.WinControls.RadItem[] {
-            this.radMenuItem15});
-            this.radMenuItem3.Name = "radMenuItem3";
-            this.radMenuItem3.Text = "Format";
+            this.formatMenuItem.Items.AddRange(new Telerik.WinControls.RadItem[] {
+            this.fontMenuItem});
+            this.formatMenuItem.Name = "formatMenuItem";
+            this.formatMenuItem.Text = "Format";
             // 
-            // radMenuItem15
+            // fontMenuItem
             // 
-            this.radMenuItem15.Image = global::YP_NotePad.Properties.Resources.icons8_choose_font_96;
-            this.radMenuItem15.Name = "radMenuItem15";
-            this.radMenuItem15.Text = "Font";
-            this.radMenuItem15.TextAlignment = System.Drawing.ContentAlignment.MiddleRight;
-            this.radMenuItem15.ToolTipText = "Font (Ctrl+F)";
-            this.radMenuItem15.Click += new System.EventHandler(this.fontToolStripMenuItem_Click);
+            this.fontMenuItem.Image = global::YP_NotePad.Properties.Resources.icons8_choose_font_96;
+            this.fontMenuItem.Name = "fontMenuItem";
+            this.fontMenuItem.Text = "Font";
+            this.fontMenuItem.TextAlignment = System.Drawing.ContentAlignment.MiddleRight;
+            this.fontMenuItem.ToolTipText = "Font (Ctrl+F)";
+            this.fontMenuItem.Click += new System.EventHandler(this.fontToolStripMenuItem_Click);
             // 
-            // radMenuItem4
+            // viewMenuItem
             // 
-            this.radMenuItem4.Items.AddRange(new Telerik.WinControls.RadItem[] {
-            this.radMenuItem16});
-            this.radMenuItem4.Name = "radMenuItem4";
-            this.radMenuItem4.Text = "View";
+            this.viewMenuItem.Items.AddRange(new Telerik.WinControls.RadItem[] {
+            this.textColorMenuItem});
+            this.viewMenuItem.Name = "viewMenuItem";
+            this.viewMenuItem.Text = "View";
             // 
-            // radMenuItem16
+            // textColorMenuItem
             // 
-            this.radMenuItem16.Image = global::YP_NotePad.Properties.Resources.icons8_color_wheel_96;
-            this.radMenuItem16.Name = "radMenuItem16";
-            this.radMenuItem16.Text = "Text Color";
-            this.radMenuItem16.ToolTipText = "Text Color (Ctrl+Alt+T)";
-            this.radMenuItem16.Click += new System.EventHandler(this.foreColorToolStripMenuItem_Click);
+            this.textColorMenuItem.Image = global::YP_NotePad.Properties.Resources.icons8_color_wheel_96;
+            this.textColorMenuItem.Name = "textColorMenuItem";
+            this.textColorMenuItem.Text = "Text Color";
+            this.textColorMenuItem.ToolTipText = "Text Color (Ctrl+Alt+T)";
+            this.textColorMenuItem.Click += new System.EventHandler(this.foreColorToolStripMenuItem_Click);
             // 
             // radMenuItem5
             // 
             this.radMenuItem5.Items.AddRange(new Telerik.WinControls.RadItem[] {
             this.aboutToolStripMenuItem,
-            this.helpToolStripMenuItem1});
+            this.helpToolStripMenuItem});
             this.radMenuItem5.Name = "radMenuItem5";
             this.radMenuItem5.Text = "Help";
             // 
@@ -389,26 +389,26 @@
             this.aboutToolStripMenuItem.ToolTipText = "About";
             this.aboutToolStripMenuItem.Click += new System.EventHandler(this.aboutToolStripMenuItem_Click_1);
             // 
-            // helpToolStripMenuItem1
+            // helpToolStripMenuItem
             // 
-            this.helpToolStripMenuItem1.Image = global::YP_NotePad.Properties.Resources.icons8_help_96;
-            this.helpToolStripMenuItem1.Name = "helpToolStripMenuItem1";
-            this.helpToolStripMenuItem1.Text = "Help";
-            this.helpToolStripMenuItem1.ToolTipText = "Help";
-            this.helpToolStripMenuItem1.Click += new System.EventHandler(this.RadMenuItem18_Click);
+            this.helpToolStripMenuItem.Image = global::YP_NotePad.Properties.Resources.icons8_help_96;
+            this.helpToolStripMenuItem.Name = "helpToolStripMenuItem";
+            this.helpToolStripMenuItem.Text = "Help";
+            this.helpToolStripMenuItem.ToolTipText = "Help";
+            this.helpToolStripMenuItem.Click += new System.EventHandler(this.RadMenuItem18_Click);
             // 
-            // richTextBox1
+            // txtInput
             // 
-            this.richTextBox1.BackColor = System.Drawing.Color.White;
-            this.richTextBox1.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.richTextBox1.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.richTextBox1.Font = new System.Drawing.Font("Nirmala UI Semilight", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.richTextBox1.ForeColor = System.Drawing.Color.Black;
-            this.richTextBox1.Location = new System.Drawing.Point(0, 34);
-            this.richTextBox1.Name = "richTextBox1";
-            this.richTextBox1.Size = new System.Drawing.Size(781, 337);
-            this.richTextBox1.TabIndex = 5;
-            this.richTextBox1.Text = "";
+            this.txtInput.BackColor = System.Drawing.Color.White;
+            this.txtInput.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.txtInput.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.txtInput.Font = new System.Drawing.Font("Nirmala UI Semilight", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txtInput.ForeColor = System.Drawing.Color.Black;
+            this.txtInput.Location = new System.Drawing.Point(0, 34);
+            this.txtInput.Name = "txtInput";
+            this.txtInput.Size = new System.Drawing.Size(781, 337);
+            this.txtInput.TabIndex = 5;
+            this.txtInput.Text = "";
             // 
             // radButton1
             // 
@@ -432,16 +432,16 @@
             this.radButton2.ThemeName = "Crystal";
             this.radButton2.Click += new System.EventHandler(this.metroButton3_Click);
             // 
-            // radButton3
+            // saveBtn
             // 
-            this.radButton3.Anchor = System.Windows.Forms.AnchorStyles.Bottom;
-            this.radButton3.Location = new System.Drawing.Point(250, 71);
-            this.radButton3.Name = "radButton3";
-            this.radButton3.Size = new System.Drawing.Size(84, 24);
-            this.radButton3.TabIndex = 1;
-            this.radButton3.Text = "Save";
-            this.radButton3.ThemeName = "Crystal";
-            this.radButton3.Click += new System.EventHandler(this.metroButton1_Click_2);
+            this.saveBtn.Anchor = System.Windows.Forms.AnchorStyles.Bottom;
+            this.saveBtn.Location = new System.Drawing.Point(250, 71);
+            this.saveBtn.Name = "saveBtn";
+            this.saveBtn.Size = new System.Drawing.Size(84, 24);
+            this.saveBtn.TabIndex = 1;
+            this.saveBtn.Text = "Save";
+            this.saveBtn.ThemeName = "Crystal";
+            this.saveBtn.Click += new System.EventHandler(this.saveBtn_Click);
             // 
             // radLabel1
             // 
@@ -454,27 +454,27 @@
             this.radLabel1.Text = "Do you want to save changes to Untitled?";
             this.radLabel1.ThemeName = "Crystal";
             // 
-            // panelabzar
+            // panelSave
             // 
-            this.panelabzar.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Left | System.Windows.Forms.AnchorStyles.Right)));
-            this.panelabzar.Controls.Add(this.radLabel1);
-            this.panelabzar.Controls.Add(this.radButton3);
-            this.panelabzar.Controls.Add(this.radButton1);
-            this.panelabzar.Controls.Add(this.radButton2);
-            this.panelabzar.Location = new System.Drawing.Point(0, 118);
-            this.panelabzar.Name = "panelabzar";
-            this.panelabzar.Size = new System.Drawing.Size(781, 107);
-            this.panelabzar.TabIndex = 8;
-            this.panelabzar.ThemeName = "Crystal";
-            this.panelabzar.Visible = false;
+            this.panelSave.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Left | System.Windows.Forms.AnchorStyles.Right)));
+            this.panelSave.Controls.Add(this.radLabel1);
+            this.panelSave.Controls.Add(this.saveBtn);
+            this.panelSave.Controls.Add(this.radButton1);
+            this.panelSave.Controls.Add(this.radButton2);
+            this.panelSave.Location = new System.Drawing.Point(0, 118);
+            this.panelSave.Name = "panelSave";
+            this.panelSave.Size = new System.Drawing.Size(781, 107);
+            this.panelSave.TabIndex = 8;
+            this.panelSave.ThemeName = "Crystal";
+            this.panelSave.Visible = false;
             // 
             // radMenu1
             // 
             this.radMenu1.Items.AddRange(new Telerik.WinControls.RadItem[] {
-            this.radMenuItem1,
-            this.radMenuItem2,
-            this.radMenuItem3,
-            this.radMenuItem4,
+            this.fileMenuItem,
+            this.editMenuItem,
+            this.formatMenuItem,
+            this.viewMenuItem,
             this.radMenuItem5});
             this.radMenu1.Location = new System.Drawing.Point(0, 0);
             this.radMenu1.Name = "radMenu1";
@@ -487,8 +487,8 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(781, 371);
-            this.Controls.Add(this.panelabzar);
-            this.Controls.Add(this.richTextBox1);
+            this.Controls.Add(this.panelSave);
+            this.Controls.Add(this.txtInput);
             this.Controls.Add(this.radMenu1);
             this.Controls.Add(this.Menu);
             this.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
@@ -512,11 +512,11 @@
             this.Menu.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.radButton1)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.radButton2)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.radButton3)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.saveBtn)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.radLabel1)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.panelabzar)).EndInit();
-            this.panelabzar.ResumeLayout(false);
-            this.panelabzar.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.panelSave)).EndInit();
+            this.panelSave.ResumeLayout(false);
+            this.panelSave.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.radMenu1)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this)).EndInit();
             this.ResumeLayout(false);
@@ -538,30 +538,30 @@
         private Telerik.WinControls.Themes.CrystalTheme crystalTheme1;
         private Telerik.WinControls.Themes.FluentTheme fluentTheme1;
         private Telerik.WinControls.UI.RadMenu radMenu1;
-        private Telerik.WinControls.UI.RadMenuItem radMenuItem1;
-        private Telerik.WinControls.UI.RadMenuItem radMenuItem6;
-        private Telerik.WinControls.UI.RadMenuItem radMenuItem2;
-        private Telerik.WinControls.UI.RadMenuItem radMenuItem3;
-        private Telerik.WinControls.UI.RadMenuItem radMenuItem4;
+        private Telerik.WinControls.UI.RadMenuItem fileMenuItem;
+        private Telerik.WinControls.UI.RadMenuItem newMenuItem;
+        private Telerik.WinControls.UI.RadMenuItem editMenuItem;
+        private Telerik.WinControls.UI.RadMenuItem formatMenuItem;
+        private Telerik.WinControls.UI.RadMenuItem viewMenuItem;
         private Telerik.WinControls.UI.RadMenuItem radMenuItem5;
-        private Telerik.WinControls.UI.RadMenuItem radMenuItem7;
-        private Telerik.WinControls.UI.RadMenuItem radMenuItem8;
-        private Telerik.WinControls.UI.RadMenuItem radMenuItem9;
-        private Telerik.WinControls.UI.RadMenuItem radMenuItem10;
-        private Telerik.WinControls.UI.RadMenuItem radMenuItem11;
-        private Telerik.WinControls.UI.RadMenuItem radMenuItem12;
-        private Telerik.WinControls.UI.RadMenuItem radMenuItem13;
-        private Telerik.WinControls.UI.RadMenuItem radMenuItem14;
-        private Telerik.WinControls.UI.RadMenuItem radMenuItem15;
-        private Telerik.WinControls.UI.RadMenuItem radMenuItem16;
+        private Telerik.WinControls.UI.RadMenuItem openMenuItem;
+        private Telerik.WinControls.UI.RadMenuItem saveMenuItem;
+        private Telerik.WinControls.UI.RadMenuItem undoMenuItem;
+        private Telerik.WinControls.UI.RadMenuItem copyMenuItem;
+        private Telerik.WinControls.UI.RadMenuItem cutMenuItem;
+        private Telerik.WinControls.UI.RadMenuItem pasteMenuItem;
+        private Telerik.WinControls.UI.RadMenuItem sellAllMenuItem;
+        private Telerik.WinControls.UI.RadMenuItem timeMenuItem;
+        private Telerik.WinControls.UI.RadMenuItem fontMenuItem;
+        private Telerik.WinControls.UI.RadMenuItem textColorMenuItem;
         private Telerik.WinControls.UI.RadMenuItem aboutToolStripMenuItem;
-        private Telerik.WinControls.UI.RadMenuItem helpToolStripMenuItem1;
-        private System.Windows.Forms.RichTextBox richTextBox1;
+        private Telerik.WinControls.UI.RadMenuItem helpToolStripMenuItem;
+        private System.Windows.Forms.RichTextBox txtInput;
         private Telerik.WinControls.UI.RadButton radButton2;
         private Telerik.WinControls.UI.RadButton radButton1;
-        private Telerik.WinControls.UI.RadButton radButton3;
+        private Telerik.WinControls.UI.RadButton saveBtn;
         private Telerik.WinControls.UI.RadLabel radLabel1;
-        private Telerik.WinControls.UI.RadPanel panelabzar;
+        private Telerik.WinControls.UI.RadPanel panelSave;
         private System.Windows.Forms.ToolStripMenuItem ypToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem saveToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem openToolStripMenuItem;

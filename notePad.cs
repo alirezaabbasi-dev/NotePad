@@ -12,7 +12,7 @@ using MetroFramework;
 
 namespace YP_NotePad
 {
-    public partial class notePad: Telerik.WinControls.UI.RadForm
+    public partial class notePad : Telerik.WinControls.UI.RadForm
     {
         public notePad()
         {
@@ -21,17 +21,17 @@ namespace YP_NotePad
 
         private void button5_Click(object sender, EventArgs e)
         {
-            if (colorDialog1.ShowDialog()==DialogResult.OK)
+            if (colorDialog1.ShowDialog() == DialogResult.OK)
             {
-                richTextBox1.BackColor = colorDialog1.Color;
+                txtInput.BackColor = colorDialog1.Color;
             }
         }
 
         private void button6_Click(object sender, EventArgs e)
         {
-            if (colorDialog1.ShowDialog()==DialogResult.OK)
+            if (colorDialog1.ShowDialog() == DialogResult.OK)
             {
-                richTextBox1.ForeColor = colorDialog1.Color;
+                txtInput.ForeColor = colorDialog1.Color;
             }
         }
 
@@ -45,38 +45,38 @@ namespace YP_NotePad
 
         private void button7_Click(object sender, EventArgs e)
         {
-            if (folderBrowserDialog1.ShowDialog()==DialogResult.OK)
+            if (folderBrowserDialog1.ShowDialog() == DialogResult.OK)
             {
-                MessageBox.Show( folderBrowserDialog1.SelectedPath) ;
+                MessageBox.Show(folderBrowserDialog1.SelectedPath);
             }
         }
 
         private void openFileDialog1_FileOk(object sender, CancelEventArgs e)
         {
-       
+
         }
 
         private void richTextBox1_TextChanged(object sender, EventArgs e)
         {
-          
+
         }
 
         private void notePad_Load(object sender, EventArgs e)
         {
-            if (panelabzar.Visible == true)
+            if (panelSave.Visible == true)
             {
                 Menu.Enabled = false;
             }
             {
-                { 
-                    if (panelabzar.Visible == true)
+                {
+                    if (panelSave.Visible == true)
                     {
                         this.Enabled = false;
                     }
                     else
                         this.Enabled = true;
                     ControlBox = true;
-                    if (richTextBox1.BackColor == Color.White)
+                    if (txtInput.BackColor == Color.White)
                     {
                         //whiteModeToolStripMenuItem.Enabled = false;
                     }
@@ -95,9 +95,9 @@ namespace YP_NotePad
         private void newToolStripMenuItem_Click(object sender, EventArgs e)
         {
             DialogResult dgr;
-            dgr = MetroFramework.MetroMessageBox.Show(this,"do You want clear your changes and open new paper ?","Notification",MessageBoxButtons.YesNo,MessageBoxIcon.Exclamation);
+            dgr = MetroFramework.MetroMessageBox.Show(this, "do You want clear your changes and open new paper ?", "Notification", MessageBoxButtons.YesNo, MessageBoxIcon.Exclamation);
             if (dgr == DialogResult.Yes)
-                richTextBox1.Text = "";
+                txtInput.Text = "";
         }
 
         private void saveToolStripMenuItem_Click(object sender, EventArgs e)
@@ -107,11 +107,11 @@ namespace YP_NotePad
             saveFileDialog1.Title = "YP NotePad-Save as";
             if (saveFileDialog1.ShowDialog() == DialogResult.OK)
             {
-                richTextBox1.SaveFile(saveFileDialog1.FileName);
+                txtInput.SaveFile(saveFileDialog1.FileName);
                 MetroFramework.MetroMessageBox.Show(this, "Comeleted!", "Save", MessageBoxButtons.OK, MessageBoxIcon.Asterisk);
-                  Refresh();
+                Refresh();
             }
-         
+
         }
 
         private void openToolStripMenuItem_Click(object sender, EventArgs e)
@@ -121,7 +121,7 @@ namespace YP_NotePad
             OpenFileDialog.Title = "YP NotePad-Open";
             if (OpenFileDialog.ShowDialog() == DialogResult.OK)
             {
-                richTextBox1.LoadFile(OpenFileDialog.FileName);
+                txtInput.LoadFile(OpenFileDialog.FileName);
             }
 
         }
@@ -129,39 +129,39 @@ namespace YP_NotePad
         private void fontToolStripMenuItem_Click(object sender, EventArgs e)
         {
             if (fontDialog1.ShowDialog() == DialogResult.OK)
-                richTextBox1.Font = fontDialog1.Font;
-            }
+                txtInput.Font = fontDialog1.Font;
+        }
 
         private void backColorToolStripMenuItem_Click(object sender, EventArgs e)
         {
             if (colorDialog1.ShowDialog() == DialogResult.OK)
-                richTextBox1.BackColor = colorDialog1.Color;
+                txtInput.BackColor = colorDialog1.Color;
         }
 
         private void backColorToolStripMenuItem1_Click(object sender, EventArgs e)
         {
             if (colorDialog1.ShowDialog() == DialogResult.OK)
-                richTextBox1.SelectionBackColor = colorDialog1.Color;
+                txtInput.SelectionBackColor = colorDialog1.Color;
         }
 
         private void foreColorToolStripMenuItem_Click(object sender, EventArgs e)
         {
             if (colorDialog1.ShowDialog() == DialogResult.OK)
-                richTextBox1.ForeColor = colorDialog1.Color;
-            if (richTextBox1.ForeColor==Color.White)
+                txtInput.ForeColor = colorDialog1.Color;
+            if (txtInput.ForeColor == Color.White)
             {
-                richTextBox1.ForeColor = Color.Black;MetroMessageBox.Show(this,"You Can't Select this because Page color is white.","YP NotePad-Error",MessageBoxButtons.OK,MessageBoxIcon.Error);
+                txtInput.ForeColor = Color.Black; MetroMessageBox.Show(this, "You Can't Select this because Page color is white.", "YP NotePad-Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
-     
+
         }
         private void menuStrip1_ItemClicked(object sender, ToolStripItemClickedEventArgs e)
         {
-           
+
         }
 
         private void wpToolStripMenuItem_Click(object sender, EventArgs e)
         {
-           
+
         }
 
         private void printToolStripMenuItem_Click_2(object sender, EventArgs e)
@@ -170,21 +170,21 @@ namespace YP_NotePad
             if (saveFileDialog1.ShowDialog() == DialogResult.OK)
             {
 
-                richTextBox1.SaveFile(saveFileDialog1.FileName);
+                txtInput.SaveFile(saveFileDialog1.FileName);
 
             }
         }
 
         private void aboutToolStripMenuItem_Click(object sender, EventArgs e)
         {
-         
-           
+
+
         }
 
 
         private void button2_Click_2(object sender, EventArgs e)
         {
-            
+
         }
 
         private void button2_Click_1(object sender, EventArgs e)
@@ -194,18 +194,18 @@ namespace YP_NotePad
 
         private void selectAllToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            
+
         }
 
         private void timeDateToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            
+
 
         }
 
         private void textBox1_TextChanged(object sender, EventArgs e)
         {
-            
+
         }
 
         private void timer1_Tick(object sender, EventArgs e)
@@ -213,81 +213,81 @@ namespace YP_NotePad
 
         private void exitToolStripMenuItem_Click(object sender, EventArgs e)
         {
-     
+
         }
 
         private void undoToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            richTextBox1.Undo();
+            txtInput.Undo();
         }
 
         private void cutToolStripMenuItem_Click(object sender, EventArgs e)
         {
-           
+
         }
 
         private void copyToolStripMenuItem_Click(object sender, EventArgs e)
         {
-      
-   
-            if (richTextBox1.Text == "")
+
+
+            if (txtInput.Text == "")
             {
                 MetroFramework.MetroMessageBox.Show(this, "There is no text to copy", "YP NotePad", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
             else
             {
-                Clipboard.SetText(richTextBox1.Text);
+                Clipboard.SetText(txtInput.Text);
             }
 
         }
 
         private void pasteToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            richTextBox1 .Text += Clipboard.GetText();
+            txtInput.Text += Clipboard.GetText();
         }
 
         private void cutmscript_Click(object sender, EventArgs e)
         {
-            if (richTextBox1.Text == "")
+            if (txtInput.Text == "")
             {
                 MetroFramework.MetroMessageBox.Show(this, "There is no text to cut", "YP NotePad", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
             else
             {
-              Clipboard.SetText(richTextBox1 .Text);
-                  richTextBox1.Text = "";
+                Clipboard.SetText(txtInput.Text);
+                txtInput.Text = "";
             }
-          
+
         }
 
         private void button1_Click_1(object sender, EventArgs e)
-        { 
+        {
 
         }
 
         private void button1_Click_2(object sender, EventArgs e)
         {
-            
+
         }
 
         private void selectAllToolStripMenuItem_Click_1(object sender, EventArgs e)
         {
-            richTextBox1.SelectAll();
-            if (richTextBox1.Text=="")
+            txtInput.SelectAll();
+            if (txtInput.Text == "")
             {
-                MetroFramework.MetroMessageBox.Show(this,"Error for empty","YP NotePad,Error",MessageBoxButtons.OK,MessageBoxIcon.Error);
+                MetroFramework.MetroMessageBox.Show(this, "Error for empty", "YP NotePad,Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
         }
 
         private void button1_Click_3(object sender, EventArgs e)
         {
-           
+
 
         }
 
         private void button1_Click_4(object sender, EventArgs e)
         {
-           
+
         }
 
         private void panel1_Paint(object sender, PaintEventArgs e)
@@ -297,58 +297,58 @@ namespace YP_NotePad
 
         private void timeDateToolStripMenuItem_Click_1(object sender, EventArgs e)
         {
-           
-            if (richTextBox1.Text=="")
+
+            if (txtInput.Text == "")
             {
 
-                richTextBox1.Text += DateTime.Now.ToString() + "  ";
+                txtInput.Text += DateTime.Now.ToString() + "  ";
             }
             else
-                richTextBox1.Text += " " + DateTime.Now.ToString() + "  ";
+                txtInput.Text += " " + DateTime.Now.ToString() + "  ";
         }
 
         private void vScrollBar1_Scroll(object sender, ScrollEventArgs e)
         {
-         
+
         }
 
         private void hScrollBar1_Scroll(object sender, ScrollEventArgs e)
         {
-             
+
         }
 
         private void metroButton1_Click(object sender, EventArgs e)
         {
-           
+
         }
 
         private void metroButton1_Click_1(object sender, EventArgs e)
         {
-           
+
         }
 
         private void Form2_FormClosing(object sender, FormClosingEventArgs e)
         {
-            if (richTextBox1.Text=="")
+            if (txtInput.Text == "")
             {
-                
+
 
             }
             else
             {
-                panelabzar.Visible = true;
+                panelSave.Visible = true;
                 e.Cancel = true;
             }
         }
 
         private void Form2_MouseClick(object sender, MouseEventArgs e)
         {
-          
+
         }
 
         private void metroButton3_Click(object sender, EventArgs e)
         {
-            panelabzar.Visible = false;
+            panelSave.Visible = false;
         }
 
         private void metroButton2_Click(object sender, EventArgs e)
@@ -356,55 +356,55 @@ namespace YP_NotePad
             Application.ExitThread();
         }
 
-        private void metroButton1_Click_2(object sender, EventArgs e)
+        private void saveBtn_Click(object sender, EventArgs e)
         {
-            panelabzar.Visible = false;
+            panelSave.Visible = false;
             saveFileDialog1.Filter = "Yp NotePad (*.ypn) |*.ypn;|Yp Text (*.yptxt)|*.yptxt;|YP Keyboard (*.ypk)|*.ypk";
             saveFileDialog1.FileName = "Untitled";
             saveFileDialog1.Title = "YP NotePad-Save as";
             if (saveFileDialog1.ShowDialog() == DialogResult.OK)
             {
-                richTextBox1.SaveFile(saveFileDialog1.FileName);
+                txtInput.SaveFile(saveFileDialog1.FileName);
                 MetroFramework.MetroMessageBox.Show(this, "Save Comeleted!", "YP NotePad", MessageBoxButtons.OK, MessageBoxIcon.Asterisk);
-                  Refresh();
+                Refresh();
             }
         }
 
         private void ve_Tick(object sender, EventArgs e)
         {
-            if (panelabzar.Visible == true)
+            if (panelSave.Visible == true)
             {
 
-                this.richTextBox1.Enabled = false;
+                this.txtInput.Enabled = false;
                 radMenu1.Enabled = false;
-                MinimizeBox = false;MaximizeBox = false;
+                MinimizeBox = false; MaximizeBox = false;
 
             }
             else
             {
-                this.richTextBox1.Enabled = true;
+                this.txtInput.Enabled = true;
                 radMenu1.Enabled = true;
-                MinimizeBox = true;MaximizeBox = true;
+                MinimizeBox = true; MaximizeBox = true;
             }
-            
-    
+
+
         }
 
         private void timermohem_Tick(object sender, EventArgs e)
         {
 
 
-                }
+        }
 
         private void timerhelp_Tick(object sender, EventArgs e)
         {
-   
+
         }
 
         private void fullToolStripMenuItem_Click(object sender, EventArgs e)
         {
             WindowState = FormWindowState.Maximized;
-         
+
         }
 
         private void normallToolStripMenuItem_Click(object sender, EventArgs e)
@@ -414,12 +414,12 @@ namespace YP_NotePad
 
         private void timermenu_Tick(object sender, EventArgs e)
         {
-            if (panelabzar.Visible == true)
+            if (panelSave.Visible == true)
             {
                 Menu.Enabled = false;
             }
             else
-                Menu.Enabled= true;
+                Menu.Enabled = true;
         }
 
         private void radButton1_Click(object sender, EventArgs e)
@@ -434,7 +434,8 @@ namespace YP_NotePad
 
         private void RadMenuItem18_Click(object sender, EventArgs e)
         {
-            helpFrm gfgf = new helpFrm();gfgf.ShowDialog();
+            helpFrm help = new helpFrm();
+            help.ShowDialog();
 
         }
 
@@ -445,14 +446,19 @@ namespace YP_NotePad
 
         private void aboutToolStripMenuItem_Click_1(object sender, EventArgs e)
         {
-            aboutFrm nb = new aboutFrm();nb.ShowDialog();
+            aboutFrm about = new aboutFrm();
+            about.ShowDialog();
         }
 
+        private void panelSave_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
     }
 }
 
 
 
-    
-    
+
+
 

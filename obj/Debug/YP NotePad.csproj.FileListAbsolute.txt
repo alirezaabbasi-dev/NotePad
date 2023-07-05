@@ -475,3 +475,111 @@ C:\Users\Acer\Desktop\YP NotePad\obj\Debug\YP NotePad.application
 C:\Users\Acer\Desktop\YP NotePad\obj\Debug\YP NotePad.csproj.CopyComplete
 C:\Users\Acer\Desktop\YP NotePad\obj\Debug\YP NotePad.exe
 C:\Users\Acer\Desktop\YP NotePad\obj\Debug\YP NotePad.pdb
+C:\Users\Acer\Desktop\NotePad\bin\Debug\YP NotePad.exe.config
+C:\Users\Acer\Desktop\NotePad\bin\Debug\YP NotePad.exe.manifest
+C:\Users\Acer\Desktop\NotePad\bin\Debug\YP NotePad.application
+C:\Users\Acer\Desktop\NotePad\bin\Debug\YP NotePad.exe
+C:\Users\Acer\Desktop\NotePad\bin\Debug\YP NotePad.pdb
+C:\Users\Acer\Desktop\NotePad\bin\Debug\Telerik.WinControls.dll
+C:\Users\Acer\Desktop\NotePad\bin\Debug\Telerik.WinControls.RichTextEditor.dll
+C:\Users\Acer\Desktop\NotePad\bin\Debug\Telerik.WinControls.Themes.Crystal.dll
+C:\Users\Acer\Desktop\NotePad\bin\Debug\Telerik.WinControls.Themes.CrystalDark.dll
+C:\Users\Acer\Desktop\NotePad\bin\Debug\Telerik.WinControls.Themes.Fluent.dll
+C:\Users\Acer\Desktop\NotePad\bin\Debug\Telerik.WinControls.Themes.TelerikMetro.dll
+C:\Users\Acer\Desktop\NotePad\bin\Debug\Telerik.WinControls.Themes.TelerikMetroBlue.dll
+C:\Users\Acer\Desktop\NotePad\bin\Debug\Telerik.WinControls.Themes.TelerikMetroTouch.dll
+C:\Users\Acer\Desktop\NotePad\bin\Debug\Telerik.WinControls.Themes.VisualStudio2012Dark.dll
+C:\Users\Acer\Desktop\NotePad\bin\Debug\Telerik.WinControls.Themes.VisualStudio2012Light.dll
+C:\Users\Acer\Desktop\NotePad\bin\Debug\Telerik.WinControls.Themes.Windows7.dll
+C:\Users\Acer\Desktop\NotePad\bin\Debug\Telerik.WinControls.Themes.Windows8.dll
+C:\Users\Acer\Desktop\NotePad\bin\Debug\Telerik.WinControls.UI.Design.dll
+C:\Users\Acer\Desktop\NotePad\bin\Debug\Telerik.WinControls.UI.dll
+C:\Users\Acer\Desktop\NotePad\bin\Debug\Telerik.Windows.Documents.Core.dll
+C:\Users\Acer\Desktop\NotePad\bin\Debug\Telerik.Windows.Documents.Fixed.dll
+C:\Users\Acer\Desktop\NotePad\bin\Debug\Telerik.Windows.Documents.Flow.dll
+C:\Users\Acer\Desktop\NotePad\bin\Debug\Telerik.Windows.Documents.Flow.FormatProviders.Pdf.dll
+C:\Users\Acer\Desktop\NotePad\bin\Debug\Telerik.Windows.Documents.Spreadsheet.dll
+C:\Users\Acer\Desktop\NotePad\bin\Debug\Telerik.Windows.Documents.Spreadsheet.FormatProviders.OpenXml.dll
+C:\Users\Acer\Desktop\NotePad\bin\Debug\Telerik.Windows.Documents.Spreadsheet.FormatProviders.Pdf.dll
+C:\Users\Acer\Desktop\NotePad\bin\Debug\Telerik.Windows.Zip.dll
+C:\Users\Acer\Desktop\NotePad\bin\Debug\TelerikCommon.dll
+C:\Users\Acer\Desktop\NotePad\bin\Debug\TelerikData.dll
+C:\Users\Acer\Desktop\NotePad\bin\Debug\TelerikExport.dll
+C:\Users\Acer\Desktop\NotePad\bin\Debug\TelerikProviderForGoogleAnalytics.dll
+C:\Users\Acer\Desktop\NotePad\bin\Debug\ThemeViewer.exe
+C:\Users\Acer\Desktop\NotePad\bin\Debug\VisualStyleBuilder.Design.dll
+C:\Users\Acer\Desktop\NotePad\bin\Debug\VisualStyleBuilder.exe
+C:\Users\Acer\Desktop\NotePad\bin\Debug\Telerik.WinControls.PivotGrid.dll
+C:\Users\Acer\Desktop\NotePad\bin\Debug\Telerik.WinControls.GridView.dll
+C:\Users\Acer\Desktop\NotePad\bin\Debug\Telerik.WinControls.RadChart.dll
+C:\Users\Acer\Desktop\NotePad\bin\Debug\Telerik.WinControls.RadDock.dll
+C:\Users\Acer\Desktop\NotePad\bin\Debug\Telerik.WinControls.RadMarkupEditor.dll
+C:\Users\Acer\Desktop\NotePad\bin\Debug\Telerik.WinControls.RadDiagram.dll
+C:\Users\Acer\Desktop\NotePad\bin\Debug\Telerik.WinControls.PdfViewer.dll
+C:\Users\Acer\Desktop\NotePad\bin\Debug\Telerik.WinControls.ChartView.dll
+C:\Users\Acer\Desktop\NotePad\bin\Debug\Telerik.WinControls.Scheduler.dll
+C:\Users\Acer\Desktop\NotePad\bin\Debug\Telerik.WinControls.Themes.HighContrastBlack.dll
+C:\Users\Acer\Desktop\NotePad\bin\Debug\Telerik.WinControls.RadMap.dll
+C:\Users\Acer\Desktop\NotePad\bin\Debug\Telerik.WinControls.RadSpreadsheet.dll
+C:\Users\Acer\Desktop\NotePad\bin\Debug\Telerik.Documents.SpreadsheetStreaming.dll
+C:\Users\Acer\Desktop\NotePad\bin\Debug\RadControlSpy.dll
+C:\Users\Acer\Desktop\NotePad\bin\Debug\Telerik.WinControls.Themes.Aqua.dll
+C:\Users\Acer\Desktop\NotePad\bin\Debug\Telerik.WinControls.Themes.Breeze.dll
+C:\Users\Acer\Desktop\NotePad\bin\Debug\Telerik.WinControls.Themes.Desert.dll
+C:\Users\Acer\Desktop\NotePad\bin\Debug\Telerik.WinControls.Themes.Office2007Black.dll
+C:\Users\Acer\Desktop\NotePad\bin\Debug\Telerik.WinControls.Themes.Office2007Silver.dll
+C:\Users\Acer\Desktop\NotePad\bin\Debug\Telerik.WinControls.Themes.Office2010Black.dll
+C:\Users\Acer\Desktop\NotePad\bin\Debug\Telerik.WinControls.Themes.Office2010Blue.dll
+C:\Users\Acer\Desktop\NotePad\bin\Debug\Telerik.WinControls.Themes.Office2010Silver.dll
+C:\Users\Acer\Desktop\NotePad\bin\Debug\Telerik.WinControls.Themes.Office2013Light.dll
+C:\Users\Acer\Desktop\NotePad\bin\Debug\Telerik.WinControls.Themes.Office2013Dark.dll
+C:\Users\Acer\Desktop\NotePad\bin\Debug\Telerik.WinControls.Themes.Material.dll
+C:\Users\Acer\Desktop\NotePad\bin\Debug\Telerik.WinControls.Themes.MaterialPink.dll
+C:\Users\Acer\Desktop\NotePad\bin\Debug\Telerik.WinControls.Themes.MaterialTeal.dll
+C:\Users\Acer\Desktop\NotePad\bin\Debug\Telerik.WinControls.Themes.MaterialBlueGrey.dll
+C:\Users\Acer\Desktop\NotePad\bin\Debug\Telerik.WinControls.Themes.FluentDark.dll
+C:\Users\Acer\Desktop\NotePad\bin\Debug\Microsoft.AnalysisServices.AdomdClient.dll
+C:\Users\Acer\Desktop\NotePad\bin\Debug\Microsoft.mshtml.dll
+C:\Users\Acer\Desktop\NotePad\bin\Debug\Telerik.WinControls.xml
+C:\Users\Acer\Desktop\NotePad\bin\Debug\Telerik.WinControls.RichTextEditor.xml
+C:\Users\Acer\Desktop\NotePad\bin\Debug\Telerik.WinControls.UI.xml
+C:\Users\Acer\Desktop\NotePad\bin\Debug\Telerik.Windows.Documents.Core.xml
+C:\Users\Acer\Desktop\NotePad\bin\Debug\Telerik.Windows.Documents.Fixed.xml
+C:\Users\Acer\Desktop\NotePad\bin\Debug\Telerik.Windows.Documents.Flow.xml
+C:\Users\Acer\Desktop\NotePad\bin\Debug\Telerik.Windows.Documents.Flow.FormatProviders.Pdf.xml
+C:\Users\Acer\Desktop\NotePad\bin\Debug\Telerik.Windows.Documents.Spreadsheet.xml
+C:\Users\Acer\Desktop\NotePad\bin\Debug\Telerik.Windows.Documents.Spreadsheet.FormatProviders.OpenXml.xml
+C:\Users\Acer\Desktop\NotePad\bin\Debug\Telerik.Windows.Documents.Spreadsheet.FormatProviders.Pdf.xml
+C:\Users\Acer\Desktop\NotePad\bin\Debug\Telerik.Windows.Zip.xml
+C:\Users\Acer\Desktop\NotePad\bin\Debug\TelerikData.xml
+C:\Users\Acer\Desktop\NotePad\bin\Debug\TelerikExport.xml
+C:\Users\Acer\Desktop\NotePad\bin\Debug\ThemeViewer.exe.config
+C:\Users\Acer\Desktop\NotePad\bin\Debug\VisualStyleBuilder.exe.config
+C:\Users\Acer\Desktop\NotePad\bin\Debug\Telerik.WinControls.PivotGrid.xml
+C:\Users\Acer\Desktop\NotePad\bin\Debug\Telerik.WinControls.GridView.xml
+C:\Users\Acer\Desktop\NotePad\bin\Debug\Telerik.WinControls.RadChart.xml
+C:\Users\Acer\Desktop\NotePad\bin\Debug\Telerik.WinControls.RadDock.xml
+C:\Users\Acer\Desktop\NotePad\bin\Debug\Telerik.WinControls.RadMarkupEditor.xml
+C:\Users\Acer\Desktop\NotePad\bin\Debug\Telerik.WinControls.RadDiagram.xml
+C:\Users\Acer\Desktop\NotePad\bin\Debug\Telerik.WinControls.PdfViewer.xml
+C:\Users\Acer\Desktop\NotePad\bin\Debug\Telerik.WinControls.ChartView.xml
+C:\Users\Acer\Desktop\NotePad\bin\Debug\Telerik.WinControls.Scheduler.xml
+C:\Users\Acer\Desktop\NotePad\bin\Debug\Telerik.WinControls.RadMap.xml
+C:\Users\Acer\Desktop\NotePad\bin\Debug\Telerik.WinControls.RadSpreadsheet.xml
+C:\Users\Acer\Desktop\NotePad\bin\Debug\Telerik.WinControls.RadSpreadsheet.dll.config
+C:\Users\Acer\Desktop\NotePad\bin\Debug\Telerik.Documents.SpreadsheetStreaming.xml
+C:\Users\Acer\Desktop\NotePad\obj\Debug\YP NotePad.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\NotePad\obj\Debug\YP NotePad.csproj.SuggestedBindingRedirects.cache
+C:\Users\Acer\Desktop\NotePad\obj\Debug\note_pad_yp.helpFrm.resources
+C:\Users\Acer\Desktop\NotePad\obj\Debug\YP_NotePad.aboutFrm.resources
+C:\Users\Acer\Desktop\NotePad\obj\Debug\YP_NotePad.notePad.resources
+C:\Users\Acer\Desktop\NotePad\obj\Debug\YP_NotePad.Properties.Resources.resources
+C:\Users\Acer\Desktop\NotePad\obj\Debug\YP NotePad.csproj.GenerateResource.cache
+C:\Users\Acer\Desktop\NotePad\obj\Debug\YP NotePad.exe.licenses
+C:\Users\Acer\Desktop\NotePad\obj\Debug\YP NotePad.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\NotePad\obj\Debug\YP NotePad.TrustInfo.xml
+C:\Users\Acer\Desktop\NotePad\obj\Debug\YP NotePad.exe.manifest
+C:\Users\Acer\Desktop\NotePad\obj\Debug\YP NotePad.application
+C:\Users\Acer\Desktop\NotePad\obj\Debug\YP NotePad.csproj.CopyComplete
+C:\Users\Acer\Desktop\NotePad\obj\Debug\YP NotePad.exe
+C:\Users\Acer\Desktop\NotePad\obj\Debug\YP NotePad.pdb

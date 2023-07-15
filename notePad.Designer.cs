@@ -406,14 +406,14 @@
             this.txtInput.ForeColor = System.Drawing.Color.Black;
             this.txtInput.Location = new System.Drawing.Point(0, 34);
             this.txtInput.Name = "txtInput";
-            this.txtInput.Size = new System.Drawing.Size(781, 337);
+            this.txtInput.Size = new System.Drawing.Size(792, 331);
             this.txtInput.TabIndex = 5;
             this.txtInput.Text = "";
             // 
             // radButton1
             // 
             this.radButton1.Anchor = System.Windows.Forms.AnchorStyles.Bottom;
-            this.radButton1.Location = new System.Drawing.Point(345, 71);
+            this.radButton1.Location = new System.Drawing.Point(351, 71);
             this.radButton1.Name = "radButton1";
             this.radButton1.Size = new System.Drawing.Size(84, 24);
             this.radButton1.TabIndex = 2;
@@ -424,7 +424,7 @@
             // radButton2
             // 
             this.radButton2.Anchor = System.Windows.Forms.AnchorStyles.Bottom;
-            this.radButton2.Location = new System.Drawing.Point(438, 71);
+            this.radButton2.Location = new System.Drawing.Point(444, 71);
             this.radButton2.Name = "radButton2";
             this.radButton2.Size = new System.Drawing.Size(84, 24);
             this.radButton2.TabIndex = 0;
@@ -435,7 +435,7 @@
             // saveBtn
             // 
             this.saveBtn.Anchor = System.Windows.Forms.AnchorStyles.Bottom;
-            this.saveBtn.Location = new System.Drawing.Point(250, 71);
+            this.saveBtn.Location = new System.Drawing.Point(256, 71);
             this.saveBtn.Name = "saveBtn";
             this.saveBtn.Size = new System.Drawing.Size(84, 24);
             this.saveBtn.TabIndex = 1;
@@ -447,7 +447,7 @@
             // 
             this.radLabel1.Anchor = System.Windows.Forms.AnchorStyles.Top;
             this.radLabel1.Font = new System.Drawing.Font("Segoe UI", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.radLabel1.Location = new System.Drawing.Point(245, 12);
+            this.radLabel1.Location = new System.Drawing.Point(251, 12);
             this.radLabel1.Name = "radLabel1";
             this.radLabel1.Size = new System.Drawing.Size(291, 24);
             this.radLabel1.TabIndex = 7;
@@ -461,9 +461,9 @@
             this.panelSave.Controls.Add(this.saveBtn);
             this.panelSave.Controls.Add(this.radButton1);
             this.panelSave.Controls.Add(this.radButton2);
-            this.panelSave.Location = new System.Drawing.Point(0, 118);
+            this.panelSave.Location = new System.Drawing.Point(0, 115);
             this.panelSave.Name = "panelSave";
-            this.panelSave.Size = new System.Drawing.Size(781, 107);
+            this.panelSave.Size = new System.Drawing.Size(792, 107);
             this.panelSave.TabIndex = 8;
             this.panelSave.ThemeName = "Crystal";
             this.panelSave.Visible = false;
@@ -478,7 +478,7 @@
             this.radMenuItem5});
             this.radMenu1.Location = new System.Drawing.Point(0, 0);
             this.radMenu1.Name = "radMenu1";
-            this.radMenu1.Size = new System.Drawing.Size(781, 34);
+            this.radMenu1.Size = new System.Drawing.Size(792, 34);
             this.radMenu1.TabIndex = 4;
             this.radMenu1.ThemeName = "Crystal";
             // 
@@ -486,7 +486,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(781, 371);
+            this.ClientSize = new System.Drawing.Size(792, 365);
             this.Controls.Add(this.panelSave);
             this.Controls.Add(this.txtInput);
             this.Controls.Add(this.radMenu1);

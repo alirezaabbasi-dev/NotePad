@@ -43,7 +43,7 @@
             // okBtn
             // 
             this.okBtn.Anchor = System.Windows.Forms.AnchorStyles.Left;
-            this.okBtn.Location = new System.Drawing.Point(310, 210);
+            this.okBtn.Location = new System.Drawing.Point(250, 202);
             this.okBtn.Name = "okBtn";
             this.okBtn.Size = new System.Drawing.Size(130, 51);
             this.okBtn.TabIndex = 2;
@@ -54,7 +54,7 @@
             // githubBtn
             // 
             this.githubBtn.Anchor = System.Windows.Forms.AnchorStyles.Left;
-            this.githubBtn.Location = new System.Drawing.Point(12, 210);
+            this.githubBtn.Location = new System.Drawing.Point(12, 202);
             this.githubBtn.Name = "githubBtn";
             this.githubBtn.Size = new System.Drawing.Size(130, 51);
             this.githubBtn.TabIndex = 1;
@@ -71,6 +71,7 @@
             // 
             // aboutTxt
             // 
+            this.aboutTxt.Font = new System.Drawing.Font("Segoe UI", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.aboutTxt.Location = new System.Drawing.Point(12, 10);
             this.aboutTxt.Name = "aboutTxt";
             this.aboutTxt.Size = new System.Drawing.Size(400, 184);
@@ -84,7 +85,7 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.White;
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.ClientSize = new System.Drawing.Size(452, 314);
+            this.ClientSize = new System.Drawing.Size(392, 265);
             this.Controls.Add(this.aboutTxt);
             this.Controls.Add(this.githubBtn);
             this.Controls.Add(this.okBtn);

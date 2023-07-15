@@ -806,19 +806,10 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>bffquLMOJh2fjFr3pCyHxL9HHYBh23PUb1JWuFxf/as=</dsig:DigestValue>
+        <dsig:DigestValue>vSr64SHri15QzB5onTjWI1VHDajQaU8w9jG/gI9RRTk=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
-  <file name="icons8-spiral-bound-booklet-96.ico" size="51478">
-    <hash>
-      <dsig:Transforms>
-        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
-      </dsig:Transforms>
-      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>PKopDnHcuhvY8lxZf2vHG/4AtJMe3A4aVmgGVlHSVmc=</dsig:DigestValue>
-    </hash>
-  </file>
   <file name="NotePad.ico" size="4286">
     <hash>
       <dsig:Transforms>
@@ -826,15 +817,6 @@
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
       <dsig:DigestValue>GPnHbOm/S4GljRhTal2V/V1AkXmrNd09h1/ILIj4p2I=</dsig:DigestValue>
-    </hash>
-  </file>
-  <file name="nt.ico" size="61147">
-    <hash>
-      <dsig:Transforms>
-        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
-      </dsig:Transforms>
-      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>FH2PI8KTv/Y83ZItNxPRjgoR59wobO82X5TjIB08oNY=</dsig:DigestValue>
     </hash>
   </file>
   <file name="YP NotePad.exe.config" size="546">

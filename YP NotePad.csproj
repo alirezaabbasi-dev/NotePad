@@ -295,9 +295,7 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="icons8-spiral-bound-booklet-96.ico" />
     <Content Include="NotePad.ico" />
-    <Content Include="nt.ico" />
     <None Include="Resources\icons8-plus-48.png" />
     <None Include="Resources\icons8-help-500.png" />
     <None Include="Resources\icons8-help-96.ico" />

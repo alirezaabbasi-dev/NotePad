@@ -108,7 +108,6 @@
             this.Menu.Size = new System.Drawing.Size(157, 371);
             this.Menu.TabIndex = 1;
             this.Menu.Visible = false;
-            this.Menu.ItemClicked += new System.Windows.Forms.ToolStripItemClickedEventHandler(this.menuStrip1_ItemClicked);
             // 
             // ypToolStripMenuItem
             // 
@@ -215,7 +214,7 @@
             // tXTCOLORToolStripMenuItem
             // 
             this.tXTCOLORToolStripMenuItem.Name = "tXTCOLORToolStripMenuItem";
-            this.tXTCOLORToolStripMenuItem.ShortcutKeys = ((System.Windows.Forms.Keys)(((System.Windows.Forms.Keys.Control | System.Windows.Forms.Keys.Alt) 
+            this.tXTCOLORToolStripMenuItem.ShortcutKeys = ((System.Windows.Forms.Keys)(((System.Windows.Forms.Keys.Control | System.Windows.Forms.Keys.Alt)
             | System.Windows.Forms.Keys.T)));
             this.tXTCOLORToolStripMenuItem.Size = new System.Drawing.Size(187, 22);
             this.tXTCOLORToolStripMenuItem.Text = "TXTCOLOR";
@@ -237,10 +236,6 @@
             // 
             this.ve.Enabled = true;
             this.ve.Tick += new System.EventHandler(this.ve_Tick);
-            // 
-            // timerhelp
-            // 
-            this.timerhelp.Tick += new System.EventHandler(this.timerhelp_Tick);
             // 
             // timermenu
             // 
@@ -506,7 +501,6 @@
             this.ThemeName = "Crystal";
             this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.Form2_FormClosing);
             this.Load += new System.EventHandler(this.notePad_Load);
-            this.MouseClick += new System.Windows.Forms.MouseEventHandler(this.Form2_MouseClick);
             this.Menu.ResumeLayout(false);
             this.Menu.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.radButton1)).EndInit();

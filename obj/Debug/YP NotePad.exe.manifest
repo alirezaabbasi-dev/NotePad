@@ -799,14 +799,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="YP NotePad.exe" size="124416">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="YP NotePad.exe" size="123904">
       <assemblyIdentity name="YP NotePad" version="22.2.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>BKsOJ9XJCnEU5q5TxzEslWMfFPAdzMfTOFie0bypvPQ=</dsig:DigestValue>
+        <dsig:DigestValue>RegQswRIfH1YwRREtrXn9LLurd0gZLTJl/3+sj3/z4E=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

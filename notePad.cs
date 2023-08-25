@@ -48,6 +48,7 @@ namespace YP_NotePad
 
         private void notePad_Load(object sender, EventArgs e)
         {
+            dsblefrm.Stop();
             if (panelSave.Visible == true)
             {
                 Menu.Enabled = false;
@@ -131,7 +132,7 @@ namespace YP_NotePad
                 txtInput.ForeColor = colorDialog1.Color;
             if (txtInput.ForeColor == Color.White)
             {
-                txtInput.ForeColor = Color.Black; MetroMessageBox.Show(this, "You Can't Select this because Page color is white.", "YP NotePad-Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                txtInput.ForeColor = Color.Black; MetroMessageBox.Show(this, "You Can't select this because Page color is white.", "YP NotePad-Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
 
         }
@@ -213,9 +214,11 @@ namespace YP_NotePad
             }
             else
             {
+                dsblefrm.Start();
                 panelSave.Visible = true;
                 e.Cancel = true;
             }
+
         }
         private void metroButton3_Click(object sender, EventArgs e)
         {
@@ -241,24 +244,6 @@ namespace YP_NotePad
             }
         }
 
-        private void ve_Tick(object sender, EventArgs e)
-        {
-            if (panelSave.Visible == true)
-            {
-
-                this.txtInput.Enabled = false;
-                radMenu1.Enabled = false;
-                MinimizeBox = false; MaximizeBox = false;
-
-            }
-            else
-            {
-                this.txtInput.Enabled = true;
-                radMenu1.Enabled = true;
-                MinimizeBox = true; MaximizeBox = true;
-            }
-
-        }
         private void fullToolStripMenuItem_Click(object sender, EventArgs e)
         {
             WindowState = FormWindowState.Maximized;
@@ -277,7 +262,9 @@ namespace YP_NotePad
                 Menu.Enabled = false;
             }
             else
+            {
                 Menu.Enabled = true;
+            }
         }
 
         private void RadMenuItem18_Click(object sender, EventArgs e)
@@ -291,6 +278,33 @@ namespace YP_NotePad
             about.ShowDialog();
         }
 
+        private void txtInput_TextChanged(object sender, EventArgs e)
+        {
+            txtInput.ScrollToCaret();
+            txtInput.SelectionStart = txtInput.Text.Length;
+
+        }
+
+        private void dsblefrm_Tick(object sender, EventArgs e)
+        {
+            if (panelSave.Visible == true)
+            {
+
+                this.txtInput.Enabled = false;
+                radMenu1.Enabled = false;
+                MinimizeBox = false;
+                MaximizeBox = false;
+
+            }
+            else
+            {
+                dsblefrm.Stop();
+                this.txtInput.Enabled = true;
+                radMenu1.Enabled = true;
+                MinimizeBox = true;
+                MaximizeBox = true;
+            }
+        }
     }
 }
 

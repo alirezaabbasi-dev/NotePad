@@ -51,7 +51,7 @@
             this.fONTToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.printDialog1 = new System.Windows.Forms.PrintDialog();
             this.printDocument1 = new System.Drawing.Printing.PrintDocument();
-            this.ve = new System.Windows.Forms.Timer(this.components);
+            this.dsblefrm = new System.Windows.Forms.Timer(this.components);
             this.timerhelp = new System.Windows.Forms.Timer(this.components);
             this.timermenu = new System.Windows.Forms.Timer(this.components);
             this.crystalTheme1 = new Telerik.WinControls.Themes.CrystalTheme();
@@ -81,6 +81,7 @@
             this.radLabel1 = new Telerik.WinControls.UI.RadLabel();
             this.panelSave = new Telerik.WinControls.UI.RadPanel();
             this.radMenu1 = new Telerik.WinControls.UI.RadMenu();
+            this.printMenuItem = new Telerik.WinControls.UI.RadMenuItem();
             this.Menu.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.radButton1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.radButton2)).BeginInit();
@@ -101,11 +102,11 @@
             this.Menu.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.ypToolStripMenuItem});
             this.Menu.LayoutStyle = System.Windows.Forms.ToolStripLayoutStyle.Flow;
-            this.Menu.Location = new System.Drawing.Point(624, 0);
+            this.Menu.Location = new System.Drawing.Point(635, 0);
             this.Menu.Name = "Menu";
             this.Menu.RenderMode = System.Windows.Forms.ToolStripRenderMode.Professional;
             this.Menu.ShowItemToolTips = true;
-            this.Menu.Size = new System.Drawing.Size(157, 371);
+            this.Menu.Size = new System.Drawing.Size(157, 365);
             this.Menu.TabIndex = 1;
             this.Menu.Visible = false;
             // 
@@ -187,7 +188,7 @@
             this.sclaToolStripMenuItem.Name = "sclaToolStripMenuItem";
             this.sclaToolStripMenuItem.ShortcutKeys = ((System.Windows.Forms.Keys)((System.Windows.Forms.Keys.Control | System.Windows.Forms.Keys.A)));
             this.sclaToolStripMenuItem.Size = new System.Drawing.Size(187, 22);
-            this.sclaToolStripMenuItem.Text = "scla";
+            this.sclaToolStripMenuItem.Text = "selall";
             this.sclaToolStripMenuItem.Click += new System.EventHandler(this.selectAllToolStripMenuItem_Click_1);
             // 
             // pasteToolStripMenuItem
@@ -214,7 +215,7 @@
             // tXTCOLORToolStripMenuItem
             // 
             this.tXTCOLORToolStripMenuItem.Name = "tXTCOLORToolStripMenuItem";
-            this.tXTCOLORToolStripMenuItem.ShortcutKeys = ((System.Windows.Forms.Keys)(((System.Windows.Forms.Keys.Control | System.Windows.Forms.Keys.Alt)
+            this.tXTCOLORToolStripMenuItem.ShortcutKeys = ((System.Windows.Forms.Keys)(((System.Windows.Forms.Keys.Control | System.Windows.Forms.Keys.Alt) 
             | System.Windows.Forms.Keys.T)));
             this.tXTCOLORToolStripMenuItem.Size = new System.Drawing.Size(187, 22);
             this.tXTCOLORToolStripMenuItem.Text = "TXTCOLOR";
@@ -232,10 +233,10 @@
             // 
             this.printDialog1.UseEXDialog = true;
             // 
-            // ve
+            // dsblefrm
             // 
-            this.ve.Enabled = true;
-            this.ve.Tick += new System.EventHandler(this.ve_Tick);
+            this.dsblefrm.Enabled = true;
+            this.dsblefrm.Tick += new System.EventHandler(this.dsblefrm_Tick);
             // 
             // timermenu
             // 
@@ -247,7 +248,8 @@
             this.fileMenuItem.Items.AddRange(new Telerik.WinControls.RadItem[] {
             this.newMenuItem,
             this.openMenuItem,
-            this.saveMenuItem});
+            this.saveMenuItem,
+            this.printMenuItem});
             this.fileMenuItem.Name = "fileMenuItem";
             this.fileMenuItem.Text = "File";
             // 
@@ -404,6 +406,7 @@
             this.txtInput.Size = new System.Drawing.Size(792, 331);
             this.txtInput.TabIndex = 5;
             this.txtInput.Text = "";
+            this.txtInput.TextChanged += new System.EventHandler(this.txtInput_TextChanged);
             // 
             // radButton1
             // 
@@ -477,6 +480,12 @@
             this.radMenu1.TabIndex = 4;
             this.radMenu1.ThemeName = "Crystal";
             // 
+            // printMenuItem
+            // 
+            this.printMenuItem.Name = "printMenuItem";
+            this.printMenuItem.Text = "Print";
+            this.printMenuItem.Visibility = Telerik.WinControls.ElementVisibility.Collapsed;
+            // 
             // notePad
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -525,7 +534,7 @@
         private System.Windows.Forms.PrintDialog printDialog1;
         private System.Drawing.Printing.PrintDocument printDocument1;
         private new System.Windows.Forms.MenuStrip Menu;
-        private System.Windows.Forms.Timer ve;
+        private System.Windows.Forms.Timer dsblefrm;
         private System.Windows.Forms.Timer timerhelp;
         private System.Windows.Forms.Timer timermenu;
         private Telerik.WinControls.Themes.CrystalTheme crystalTheme1;
@@ -569,6 +578,7 @@
         private System.Windows.Forms.ToolStripSeparator toolStripSeparator1;
         private System.Windows.Forms.ToolStripMenuItem tXTCOLORToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem fONTToolStripMenuItem;
+        private Telerik.WinControls.UI.RadMenuItem printMenuItem;
     }
 }
 
